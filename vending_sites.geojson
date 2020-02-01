@@ -1,0 +1,5324 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "100 block of S Washington St",
+        "master_address_id": 0,
+        "curb_space": "",
+        "on_street": "S Washington St",
+        "neighborhood": "SODO/ID",
+        "type": "Food Vehicle",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "w/in 50' of Occidental ",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.369155883789,
+          47.6013018203069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1000 4th Ave",
+        "master_address_id": 139026,
+        "curb_space": "04-10-14/16",
+        "on_street": "4th Ave",
+        "neighborhood": "Downtown",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.332968269,
+          47.6064852822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1000 Mercer St",
+        "master_address_id": 128962,
+        "curb_space": "N6-10-02/04",
+        "on_street": "Mercer St",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33673866,
+          47.6248921355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1007 Stewart St",
+        "master_address_id": 135027,
+        "curb_space": "19-10-03/05",
+        "on_street": "Stewart St",
+        "neighborhood": "Denny Triangle",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.333037681,
+          47.6163229756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1007 Stewart St",
+        "master_address_id": 135027,
+        "curb_space": "",
+        "on_street": "Stewart St",
+        "neighborhood": "Denny Triangle",
+        "type": "Food Vehicle",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "Site B is inelligable due to parking meters",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.333037681,
+          47.6163229756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1016 Republican St",
+        "master_address_id": 129008,
+        "curb_space": "",
+        "on_street": "Republican St",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336192711,
+          47.623339321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1041 Mercer St",
+        "master_address_id": 629028,
+        "curb_space": "",
+        "on_street": "Mercer St",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "Not Eligible",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33645624,
+          47.624239785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "112 Occidental Ave S",
+        "master_address_id": 144462,
+        "curb_space": "SOO-01-16/18",
+        "on_street": "Occidental Ave S",
+        "neighborhood": "SODO/ID",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.332480334,
+          47.6012286975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1124 Harrison St",
+        "master_address_id": 607730,
+        "curb_space": "",
+        "on_street": "Harrison St",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334836256,
+          47.6226128471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1301 5th Ave",
+        "master_address_id": 138373,
+        "curb_space": "???? No candidates",
+        "on_street": "Union St",
+        "neighborhood": "Downtown",
+        "type": "Food Vehicle",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334806754,
+          47.6089613194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1314 6th Ave",
+        "master_address_id": 426794,
+        "curb_space": "",
+        "on_street": "th Ave",
+        "neighborhood": "Downtown",
+        "type": "Food Vehicle",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33278894,
+          47.6096803354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1405 5th Ave on Union St",
+        "master_address_id": 138742,
+        "curb_space": "",
+        "on_street": "Union St",
+        "neighborhood": "Downtown",
+        "type": "Food Vehicle",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335123363,
+          47.6097378585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1415 2nd Ave",
+        "master_address_id": 138282,
+        "curb_space": "02-14-05/07",
+        "on_street": "2nd Ave",
+        "neighborhood": "Downtown",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "3PM-7PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.338840759,
+          47.6087020241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1415 4th Ave",
+        "master_address_id": 138155,
+        "curb_space": "04-14-09",
+        "on_street": "4th Ave",
+        "neighborhood": "Downtown",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336245649,
+          47.6092252922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1415 4th Ave",
+        "master_address_id": 138155,
+        "curb_space": "04-14-11/13",
+        "on_street": "4th Ave",
+        "neighborhood": "Downtown",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336245649,
+          47.6092252922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1420 5th Ave on Pike St",
+        "master_address_id": 137931,
+        "curb_space": "15-05-03",
+        "on_street": "Pike St",
+        "neighborhood": "Downtown",
+        "type": "Food Vehicle",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334664707,
+          47.6105449779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1500 Harvard on E Pike St",
+        "master_address_id": 135347,
+        "curb_space": "",
+        "on_street": "E Pike St",
+        "neighborhood": "Capitol Hill",
+        "type": "Food Vehicle",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "10PM-2AM",
+        "saturday": "10PM-2AM",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.321742278,
+          47.6143838204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1506 6th Ave",
+        "master_address_id": 134386,
+        "curb_space": "",
+        "on_street": "6th Ave",
+        "neighborhood": "Downtown",
+        "type": "Food Vehicle",
+        "monday": "",
+        "tuesday": "10AM-2PM",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334457764,
+          47.6116395565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1507 2nd Ave",
+        "master_address_id": 138141,
+        "curb_space": "",
+        "on_street": "2nd Ave",
+        "neighborhood": "Downtown",
+        "type": "Food Vehicle",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.339363571,
+          47.6094261371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1600 7th Ave",
+        "master_address_id": 134138,
+        "curb_space": "",
+        "on_street": "7th Ave",
+        "neighborhood": "Downtown",
+        "type": "Food Vehicle",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334302654,
+          47.6131642704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1730 Minor Ave",
+        "master_address_id": 134631,
+        "curb_space": "MR-17-04/06",
+        "on_street": "Minor Ave",
+        "neighborhood": "Downtown",
+        "type": "Food Vehicle",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "10AM-2PM",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.329651843,
+          47.616950637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1807 7th Ave",
+        "master_address_id": 134077,
+        "curb_space": "",
+        "on_street": "7th Ave",
+        "neighborhood": "Downtown",
+        "type": "Food Vehicle",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33566059,
+          47.6137460644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1831 8th Ave",
+        "master_address_id": 425252,
+        "curb_space": "19-08-15/17",
+        "on_street": "Stewart St",
+        "neighborhood": "Denny Triangle",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335271201,
+          47.614583497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1915 Terry Ave on Stewart St",
+        "master_address_id": 133867,
+        "curb_space": "",
+        "on_street": "Stewart St",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.333907744,
+          47.6162770817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "200 block of S Washington St",
+        "master_address_id": 0,
+        "curb_space": "",
+        "on_street": "Washington St",
+        "neighborhood": "SODO/ID",
+        "type": "Food Vehicle",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.369155883789,
+          47.6013018203069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "200 Boren Ave N",
+        "master_address_id": 651176,
+        "curb_space": "NBN-02-24/26",
+        "on_street": "Boren Ave N",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335481281,
+          47.6200189103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "200 Boren Ave N",
+        "master_address_id": 651176,
+        "curb_space": "NBN-02-28/30",
+        "on_street": "Boren Ave N",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335481281,
+          47.6200189103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "200 Terry Ave",
+        "master_address_id": 129172,
+        "curb_space": "N2-09-62/64",
+        "on_street": "Terry Ave",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336868464,
+          47.6200170857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "200 Westlake Ave N on John St",
+        "master_address_id": 129352,
+        "curb_space": "N2-09-56/58",
+        "on_street": "John St",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM -2PM",
+        "tuesday": "10AM -2PM",
+        "wednesday": "10AM -2PM",
+        "thursday": "10AM -2PM",
+        "friday": "10AM -2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.338073367,
+          47.6200386817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "200 Westlake Ave N on Thomas St",
+        "master_address_id": 129352,
+        "curb_space": "??",
+        "on_street": "Thomas St",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.338073367,
+          47.6200386817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "200 Yale Ave N on Thomas",
+        "master_address_id": 129816,
+        "curb_space": "",
+        "on_street": "Thomas St",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.330261173,
+          47.6203307116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "2000 9th Ave on Virginia St",
+        "master_address_id": 133864,
+        "curb_space": "20-09-02/06-A",
+        "on_street": "Virginia St",
+        "neighborhood": "Denny Triangle",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335570505,
+          47.616734522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "2000 9th Ave on Virginia St",
+        "master_address_id": 133864,
+        "curb_space": "20-09-02/06-B",
+        "on_street": "Virginia St",
+        "neighborhood": "Denny Triangle",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "Not Eligible",
+        "wednesday": "10AM-2PM",
+        "thursday": "Not Eligible",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335570505,
+          47.616734522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "2001 8th Ave",
+        "master_address_id": 603703,
+        "curb_space": "08-20-25",
+        "on_street": "8th Ave",
+        "neighborhood": "Denny Triangle",
+        "type": "Food Vehicle",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337256823,
+          47.615783224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "201 Boren Ave N",
+        "master_address_id": 129201,
+        "curb_space": "NBN-02-15/19",
+        "on_street": "Boren Ave N",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336272877,
+          47.62037175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "201 Boren Ave N",
+        "master_address_id": 129201,
+        "curb_space": "NBN-02-21/25",
+        "on_street": "Boren Ave N",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336272877,
+          47.62037175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "201 Terry Ave N on John St",
+        "master_address_id": 129193,
+        "curb_space": "N2-09-62/64",
+        "on_street": "John St",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33741086,
+          47.6199454979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "2045 Westlake Ave",
+        "master_address_id": 133903,
+        "curb_space": "",
+        "on_street": "Westlake Ave",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.338454714,
+          47.6158574384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "2051 7th Ave on Lenora",
+        "master_address_id": 675818,
+        "curb_space": "21-06-13",
+        "on_street": "Lenora St",
+        "neighborhood": "Downtown",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.338349418,
+          47.6152312937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "2100 6th Ave",
+        "master_address_id": 134516,
+        "curb_space": "",
+        "on_street": "6th Ave",
+        "neighborhood": "Downtown",
+        "type": "Food Vehicle",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33969785,
+          47.6156076451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "2101 8th Ave",
+        "master_address_id": 133842,
+        "curb_space": "",
+        "on_street": "8th Ave",
+        "neighborhood": "Denny Triangle",
+        "type": "Food Vehicle",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.339090083,
+          47.6169546791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "2121 7th Ave",
+        "master_address_id": 134503,
+        "curb_space": "",
+        "on_street": "7th Ave",
+        "neighborhood": "Downtown",
+        "type": "Food Vehicle",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.339733356,
+          47.6160806336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "214 Yesler Way",
+        "master_address_id": 0,
+        "curb_space": "",
+        "on_street": "Yesler Way",
+        "neighborhood": "Downtown",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.331124149,
+          47.6017175722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "2200 6th Ave",
+        "master_address_id": 133860,
+        "curb_space": "",
+        "on_street": "6th Ave",
+        "neighborhood": "Downtown",
+        "type": "Food Vehicle",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34111986,
+          47.6164094696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "2200 Westlake on 9th",
+        "master_address_id": 129265,
+        "curb_space": "09-21-04/08",
+        "on_street": "9th Ave",
+        "neighborhood": "Denny Triangle",
+        "type": "Food Vehicle",
+        "monday": "6AM-10AM",
+        "tuesday": "6AM-10AM",
+        "wednesday": "6AM-10AM",
+        "thursday": "6AM-10AM",
+        "friday": "6AM-10AM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337285099,
+          47.6178259206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "2200 Westlake on 9th",
+        "master_address_id": 129265,
+        "curb_space": "09-21-04/08",
+        "on_street": "9th Ave",
+        "neighborhood": "Denny Triangle",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337285099,
+          47.6178259206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "2209 9th Ave",
+        "master_address_id": 129268,
+        "curb_space": "09-22-04/06",
+        "on_street": "9th Ave",
+        "neighborhood": "Denny Triangle",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.339083597,
+          47.6181051357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "2209 9th Ave",
+        "master_address_id": 129268,
+        "curb_space": "09-22-08",
+        "on_street": "9th Ave",
+        "neighborhood": "Denny Triangle",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.339083597,
+          47.6181051357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "222 Yale Ave N",
+        "master_address_id": 129843,
+        "curb_space": "NYL-02-14",
+        "on_street": "Yale Ave N",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "10AM-2PM",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.330273771,
+          47.6199958482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "225 Terry Ave N",
+        "master_address_id": 129331,
+        "curb_space": "???",
+        "on_street": "Terry Ave N",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33755974,
+          47.6206261347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "225 Terry Ave N",
+        "master_address_id": 129331,
+        "curb_space": "NTY-02-39/33",
+        "on_street": "Terry Ave N",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33755974,
+          47.6206261347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "2300 7th Ave",
+        "master_address_id": 134467,
+        "curb_space": "07-23-04/06",
+        "on_street": "7th Ave",
+        "neighborhood": "Downtown",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.341389458,
+          47.6176778161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "233 Westlake Ave N on Thomas St",
+        "master_address_id": 129169,
+        "curb_space": "",
+        "on_street": "Thomas St",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "",
+        "tuesday": "10AM-2PM",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33873611,
+          47.6207142674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "233 Westlake Ave N on Thomas St",
+        "master_address_id": 129169,
+        "curb_space": "",
+        "on_street": "Thomas St",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33873611,
+          47.6207142674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "235 9th Ave N on Thomas St",
+        "master_address_id": 129326,
+        "curb_space": "N3-08-13/15-AB",
+        "on_street": "Thomas St",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.340169794,
+          47.620698599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "235 9th Ave N on Thomas St",
+        "master_address_id": 129326,
+        "curb_space": "N3-08-07/09-AB",
+        "on_street": "Thomas St",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.340169794,
+          47.620698599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "300 Boren Ave N",
+        "master_address_id": 668255,
+        "curb_space": "is this a CarShare LZ now?",
+        "on_street": "Boren Ave N",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335534347,
+          47.621067509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "300 Boren Ave N",
+        "master_address_id": 668255,
+        "curb_space": "NBN-03-04/08",
+        "on_street": "Boren Ave N",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335534347,
+          47.621067509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "300 Terry Ave N",
+        "master_address_id": 129142,
+        "curb_space": "",
+        "on_street": "Terry Ave N",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33680947,
+          47.6210321985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "305 Pine St",
+        "master_address_id": 137944,
+        "curb_space": "parklet",
+        "on_street": "Pine St",
+        "neighborhood": "Downtown",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "10AM-2PM",
+        "sunday": "10AM-2PM",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.338149907,
+          47.6106575254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "305 Pine St",
+        "master_address_id": 137944,
+        "curb_space": "parklet",
+        "on_street": "Pine St",
+        "neighborhood": "Downtown",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "10AM-2PM",
+        "sunday": "10AM-2PM",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.338149907,
+          47.6106575254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "311 Terry Ave N on Thomas St",
+        "master_address_id": 616716,
+        "curb_space": "N3-09-64/66",
+        "on_street": "Thomas St",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337443251,
+          47.6213681415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "311 Terry Ave N on Thomas St",
+        "master_address_id": 616716,
+        "curb_space": "N3-09-66/68",
+        "on_street": "Thomas St",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337443251,
+          47.6213681415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "312 Dexter Ave N",
+        "master_address_id": 129124,
+        "curb_space": "N4-07-53/55",
+        "on_street": "Harrison St",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.341954323,
+          47.621395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "318 Fairview Ave N",
+        "master_address_id": 129675,
+        "curb_space": "NFV-03-10/14 - is 10 and 12/14",
+        "on_street": "Fairview Ave N",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.333774666,
+          47.621296948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "320 Westlake Ave N on Harrison St",
+        "master_address_id": 610822,
+        "curb_space": "N4-09-53/55",
+        "on_street": "Harrison St",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33813688,
+          47.6213110888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "320 Westlake Ave N on Harrison St",
+        "master_address_id": 610822,
+        "curb_space": "N4-09-55/57",
+        "on_street": "Harrison St",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33813688,
+          47.6213110888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "333 Boren Ave N",
+        "master_address_id": 629309,
+        "curb_space": "NBN-03-03/09",
+        "on_street": "Boren Ave N",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336294844,
+          47.6211249002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "333 Boren Ave N",
+        "master_address_id": 629309,
+        "curb_space": "NBN-03-03/09",
+        "on_street": "Boren Ave N",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336294844,
+          47.6211249002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "333 Boren Ave N on Thomas St",
+        "master_address_id": 629309,
+        "curb_space": "N3-10-16/20",
+        "on_street": "Thomas St",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336294844,
+          47.6211249002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "400 9th Ave",
+        "master_address_id": 0,
+        "curb_space": "bike lane?",
+        "on_street": "9th Ave",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.323443932,
+          47.6041280739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "400 Boren Ave N on Harrison St",
+        "master_address_id": 129070,
+        "curb_space": "N4-11-02/05",
+        "on_street": "Harrison St",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335584616,
+          47.6222059209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "400 Boren Ave N on Harrison St",
+        "master_address_id": 129070,
+        "curb_space": "N4-11-05/08",
+        "on_street": "Harrison St",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335584616,
+          47.6222059209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "400 Dexter Ave N",
+        "master_address_id": 129053,
+        "curb_space": "N4-07-60/62",
+        "on_street": "Harrison St",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.341942235,
+          47.6223098858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "400 Dexter Ave N",
+        "master_address_id": 129053,
+        "curb_space": "N4-07-64/66",
+        "on_street": "Harrison St",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.341942235,
+          47.6223098858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "401 8th Ave N",
+        "master_address_id": 129056,
+        "curb_space": "N08-04-03/05",
+        "on_street": "8th Ave N",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.341445431,
+          47.6223119428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "401 8th Ave N",
+        "master_address_id": 129056,
+        "curb_space": "N08-04-07/09",
+        "on_street": "8th Ave N",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.341445431,
+          47.6223119428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "401 Elliott Ave W",
+        "master_address_id": 128477,
+        "curb_space": "not CSM",
+        "on_street": "Elliott Ave W",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.363784507,
+          47.6223474887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "401 Elliott Ave W",
+        "master_address_id": 128477,
+        "curb_space": "not CSM",
+        "on_street": "Elliott Ave W",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.363784507,
+          47.6223474887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "401 Pine St",
+        "master_address_id": 134594,
+        "curb_space": "16-04-03/05",
+        "on_street": "Pine St",
+        "neighborhood": "Downtown",
+        "type": "Food Vehicle",
+        "monday": "2PM-8PM",
+        "tuesday": "2PM-8PM",
+        "wednesday": "3PM-8PM",
+        "thursday": "2PM-8PM",
+        "friday": "2PM-8PM",
+        "saturday": "11AM-7PM",
+        "sunday": "11AM-7PM",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337237126,
+          47.6111033822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "401 Terry Ave N on Harrison St",
+        "master_address_id": 600053,
+        "curb_space": "N4-09-66/68",
+        "on_street": "Harrison St",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337534285,
+          47.6225361245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "401 Terry Ave N on Harrison St",
+        "master_address_id": 600053,
+        "curb_space": "N4-69-62/64",
+        "on_street": "Harrison St",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337534285,
+          47.6225361245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "411 University St",
+        "master_address_id": 138381,
+        "curb_space": "",
+        "on_street": "University St",
+        "neighborhood": "Downtown",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.333905311,
+          47.6080375855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "4100 University Way NE",
+        "master_address_id": 93388,
+        "curb_space": "NE41-14-04/06",
+        "on_street": "NE 41st St",
+        "neighborhood": "University District",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.312909906,
+          47.6569799663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "424 Boren Ave N",
+        "master_address_id": 129298,
+        "curb_space": "NBN-04-26/28",
+        "on_street": "Boren Ave N",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335479237,
+          47.6229078927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "424 Boren Ave N",
+        "master_address_id": 129298,
+        "curb_space": "NBN-04-26/28",
+        "on_street": "Boren Ave N",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335479237,
+          47.6229078927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "424 Boren Ave N on Republican St",
+        "master_address_id": 129298,
+        "curb_space": "N5-11-03/07",
+        "on_street": "Republican St",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335479237,
+          47.6229078927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "424 Boren Ave N on Republican St",
+        "master_address_id": 129298,
+        "curb_space": "N5-11-03/07",
+        "on_street": "Republican St",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335479237,
+          47.6229078927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "425 Terry Ave N on Republican St",
+        "master_address_id": 129297,
+        "curb_space": "N5-09-67/69",
+        "on_street": "Republican St",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337534285,
+          47.6225361245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "428 Westlake Ave N on Republican St",
+        "master_address_id": 602660,
+        "curb_space": "",
+        "on_street": "Republican St",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3380439,
+          47.6228591185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "435 Westlake Ave N on Republican St",
+        "master_address_id": 129028,
+        "curb_space": "",
+        "on_street": "Republican St",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.338839593,
+          47.6229581059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "4300 University Way NE",
+        "master_address_id": 93023,
+        "curb_space": "NE-UW-43-10",
+        "on_street": "University Way NE",
+        "neighborhood": "University District",
+        "type": "Food Vehicle",
+        "monday": "11AM-3PM",
+        "tuesday": "11AM-3PM",
+        "wednesday": "11AM-3PM",
+        "thursday": "11AM-3PM",
+        "friday": "11AM-3PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.312962629,
+          47.6599118835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "4819 20th Ave NW",
+        "master_address_id": 80672,
+        "curb_space": "",
+        "on_street": "20th Ave NW",
+        "neighborhood": "Ballard",
+        "type": "Food Vehicle",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "10PM-2AM",
+        "saturday": "10PM-2AM",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.38239175,
+          47.6650116706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "500 Boren Ave N",
+        "master_address_id": 600213,
+        "curb_space": "NBN-05-02/04",
+        "on_street": "Boren Ave N",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335603342,
+          47.6238338855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "500 Boren Ave N",
+        "master_address_id": 600213,
+        "curb_space": "NBN-05-06/08",
+        "on_street": "Boren Ave N",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335603342,
+          47.6238338855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "500 Boren Ave N on Republican St",
+        "master_address_id": 600213,
+        "curb_space": "",
+        "on_street": "Republican St",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335603342,
+          47.6238338855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "500 Olive Way on 6th Ave",
+        "master_address_id": 134159,
+        "curb_space": "06-18-03",
+        "on_street": "6th Ave",
+        "neighborhood": "Downtown",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336951302,
+          47.6131943437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "500 Olive Way on 6th Ave",
+        "master_address_id": 134159,
+        "curb_space": "06-18-05/07",
+        "on_street": "6th Ave",
+        "neighborhood": "Downtown",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336951302,
+          47.6131943437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "500 Terry Ave N",
+        "master_address_id": 129000,
+        "curb_space": "",
+        "on_street": "Terry Ave N",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336731111,
+          47.6235906392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "5014 14th Ave NW",
+        "master_address_id": 81167,
+        "curb_space": "??? Is this site real?",
+        "on_street": "14th Ave NW",
+        "neighborhood": "Ballard",
+        "type": "Food Vehicle",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.37325526,
+          47.6655417883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "505 Yale Ave N",
+        "master_address_id": 129532,
+        "curb_space": "NYL-05-05/07",
+        "on_street": "Yale Ave N",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.330623199,
+          47.6233098736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "510 5th Ave S",
+        "master_address_id": 144316,
+        "curb_space": "how is it on 5th?",
+        "on_street": "5th Ave S",
+        "neighborhood": "SODO/ID",
+        "type": "Food Vehicle",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.327301337,
+          47.5977421255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "511 Boren Ave N",
+        "master_address_id": 128991,
+        "curb_space": "",
+        "on_street": "Boren Ave N",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "Not Eligible",
+        "tuesday": "Not Eligible",
+        "wednesday": "Not Eligible",
+        "thursday": "Not Eligible",
+        "friday": "Not Eligible",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336215409,
+          47.6235314228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "511 Boren Ave N",
+        "master_address_id": 128991,
+        "curb_space": "",
+        "on_street": "Boren Ave N",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "Not Eligible",
+        "tuesday": "Not Eligible",
+        "wednesday": "Not Eligible",
+        "thursday": "Not Eligible",
+        "friday": "Not Eligible",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336215409,
+          47.6235314228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "5201 California Ave SW",
+        "master_address_id": 168977,
+        "curb_space": "",
+        "on_street": "California Ave SW",
+        "neighborhood": "Delridge/West Seattle",
+        "type": "Food Vehicle",
+        "monday": "4PM-8PM",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.387507481,
+          47.5556812856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "535 Terry Ave N on Mercer St",
+        "master_address_id": 602301,
+        "curb_space": "N6-09-69",
+        "on_street": "Mercer St",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337552215,
+          47.6240191113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "551 Boren Ave N",
+        "master_address_id": 636690,
+        "curb_space": "NBN-05-25",
+        "on_street": "Boren Ave N",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33645624,
+          47.624239785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "551 Boren Ave N",
+        "master_address_id": 636690,
+        "curb_space": "NBN-05-31/33",
+        "on_street": "Boren Ave N",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33645624,
+          47.624239785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "600 Olive Way on 6th Ave",
+        "master_address_id": 134116,
+        "curb_space": "06-18-00/02",
+        "on_street": "6th Ave",
+        "neighborhood": "Downtown",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33619536,
+          47.6133965295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "600 Olive Way on 6th Ave",
+        "master_address_id": 134116,
+        "curb_space": "06-18-04/06",
+        "on_street": "6th Ave",
+        "neighborhood": "Downtown",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "3PM-7PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33619536,
+          47.6133965295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "601  PINE ST ",
+        "master_address_id": 134306,
+        "curb_space": "06-15-26/28",
+        "on_street": "6th Ave",
+        "neighborhood": "Downtown",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334856898,
+          47.6120280861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "6323 35th Ave SW",
+        "master_address_id": 181240,
+        "curb_space": "",
+        "on_street": "35th Ave SW",
+        "neighborhood": "Delridge/West Seattle",
+        "type": "Food Vehicle",
+        "monday": "4PM-8PM",
+        "tuesday": "4PM-8PM",
+        "wednesday": "4PM-8PM",
+        "thursday": "4PM-8PM",
+        "friday": "4PM-8PM",
+        "saturday": "4PM-8PM",
+        "sunday": "4PM-8PM",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.376743544,
+          47.5455025495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "710 6th Ave S on S Lane St",
+        "master_address_id": 144522,
+        "curb_space": "S7-06-01/03",
+        "on_street": "Lane St",
+        "neighborhood": "SODO/ID",
+        "type": "Food Vehicle",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "12PM-8PM",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.325995009,
+          47.5965380537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "701  Pike St on 7th Ave",
+        "master_address_id": 134913,
+        "curb_space": "",
+        "on_street": "th Ave",
+        "neighborhood": "Downtown",
+        "type": "Food Vehicle",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.332781218,
+          47.6114963464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "800 Harrison St",
+        "master_address_id": 129066,
+        "curb_space": "",
+        "on_street": "Harrison St",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10PM-2AM",
+        "tuesday": "10PM-2AM",
+        "wednesday": "10PM-2AM",
+        "thursday": "10PM-2AM",
+        "friday": "10PM-2AM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.340688497,
+          47.62216502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "800 Stewart St",
+        "master_address_id": 133948,
+        "curb_space": "19-08-02",
+        "on_street": "Stewart St",
+        "neighborhood": "Denny Triangle",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335192769,
+          47.6152388404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "800 Stewart St",
+        "master_address_id": 133948,
+        "curb_space": "19-08-04/06",
+        "on_street": "Stewart St",
+        "neighborhood": "Denny Triangle",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335192769,
+          47.6152388404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "801 2nd Ave",
+        "master_address_id": 138699,
+        "curb_space": "02-08-07",
+        "on_street": "2nd Ave",
+        "neighborhood": "Downtown",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334467445,
+          47.6036964241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "801 2nd Ave",
+        "master_address_id": 138699,
+        "curb_space": "02-08-09/11",
+        "on_street": "2nd Ave",
+        "neighborhood": "Downtown",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334467445,
+          47.6036964241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "810 Virginia St",
+        "master_address_id": 134498,
+        "curb_space": "",
+        "on_street": "Virginia St",
+        "neighborhood": "Denny Triangle",
+        "type": "Food Vehicle",
+        "monday": "Not Eligible",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336567294,
+          47.6162346554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "810 Virginia St on 8th Ave",
+        "master_address_id": 134498,
+        "curb_space": "",
+        "on_street": "8th Ave",
+        "neighborhood": "Denny Triangle",
+        "type": "Food Vehicle",
+        "monday": "Not Eligible",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336567294,
+          47.6162346554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "820 Stewart St",
+        "master_address_id": 629389,
+        "curb_space": "19-08-18/20",
+        "on_street": "Stewart St",
+        "neighborhood": "Denny Triangle",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334751382,
+          47.6155843123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "823 Yale Ave N",
+        "master_address_id": 125692,
+        "curb_space": "NYL-08-13/15",
+        "on_street": "Yale Ave N",
+        "neighborhood": "Capitol Hill",
+        "type": "Food Vehicle",
+        "monday": "",
+        "tuesday": "10AM-2PM",
+        "wednesday": "",
+        "thursday": "10AM-2PM",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.331276939,
+          47.6262063715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "850 Republican St",
+        "master_address_id": 645398,
+        "curb_space": "N5-08-22",
+        "on_street": "Republican St",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.340364255,
+          47.6240466496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "901 Harrison St",
+        "master_address_id": 129102,
+        "curb_space": "",
+        "on_street": "Harrison St",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.339334903,
+          47.6218359647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "901 Stewart St",
+        "master_address_id": 135040,
+        "curb_space": "19-09-03/05",
+        "on_street": "Stewart St",
+        "neighborhood": "",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.333901175,
+          47.6156208192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "905 E Pike St",
+        "master_address_id": 135566,
+        "curb_space": "E15-09-01",
+        "on_street": "Pike St",
+        "neighborhood": "Capitol Hill",
+        "type": "Food Vehicle",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "10PM-2AM",
+        "friday": "10PM-2AM",
+        "saturday": "10PM-2AM",
+        "sunday": "10PM-2AM",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.320339218,
+          47.6139001795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "918 E Pike St",
+        "master_address_id": 135488,
+        "curb_space": "E10-15-07/09",
+        "on_street": "Pike St",
+        "neighborhood": "Capitol Hill",
+        "type": "Food Vehicle",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "10PM-2AM",
+        "saturday": "10PM-2AM",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.319771861,
+          47.6142654855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "964 Republican St",
+        "master_address_id": 128997,
+        "curb_space": "N5-09-62/64",
+        "on_street": "Republican St",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337428206,
+          47.6234846723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "975 John St",
+        "master_address_id": 129218,
+        "curb_space": "N2-09-65/69",
+        "on_street": "John St",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337534922,
+          47.6194190068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "975 John St",
+        "master_address_id": 129218,
+        "curb_space": "N2-09-65/69",
+        "on_street": "John St",
+        "neighborhood": "South Lake Union",
+        "type": "Food Vehicle",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337534922,
+          47.6194190068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "McGraw Square (531 Stewart St)",
+        "master_address_id": 134555,
+        "curb_space": "",
+        "on_street": "Stewart St",
+        "neighborhood": "Denny Triangle",
+        "type": "Plaza",
+        "monday": "3PM-7PM",
+        "tuesday": "3PM-7PM",
+        "wednesday": "3PM-7PM",
+        "thursday": "3PM-7PM",
+        "friday": "3PM-7PM",
+        "saturday": "3PM-7PM",
+        "sunday": "3PM-7PM",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336951302,
+          47.6131943437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1000 Minor Ave",
+        "master_address_id": 643640,
+        "curb_space": "",
+        "on_street": "Minor Ave",
+        "neighborhood": "Capitol Hill",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": "Day"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.323998575,
+          47.6102231941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1001 Mercer St (on Terry)",
+        "master_address_id": 128972,
+        "curb_space": "",
+        "on_street": "Terry Ave",
+        "neighborhood": "South Lake Union",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": "Day"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33645624,
+          47.624239785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1007 Stewart St (on Terry)",
+        "master_address_id": 135027,
+        "curb_space": "",
+        "on_street": "Terry Ave",
+        "neighborhood": "South Lake Union",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": "Day"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.333037681,
+          47.6163229756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1016 E Pike St",
+        "master_address_id": 135477,
+        "curb_space": "",
+        "on_street": "Pike St",
+        "neighborhood": "Capitol Hill",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": "Night"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.318586103,
+          47.6143506511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1103 E Pike St",
+        "master_address_id": 135595,
+        "curb_space": "",
+        "on_street": "Pike St",
+        "neighborhood": "Capitol Hill",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": "Night"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.317859124,
+          47.6138837285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "112 Occidental Ave S",
+        "master_address_id": 144462,
+        "curb_space": "",
+        "on_street": "Occidental Ave S",
+        "neighborhood": "SODO/ID",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": "Night"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.332480334,
+          47.6012286975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1401 2nd Ave",
+        "master_address_id": 138281,
+        "curb_space": "",
+        "on_street": "nd Ave",
+        "neighborhood": "Downtown",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": "Day"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.338840759,
+          47.6087020241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1416 2nd Ave",
+        "master_address_id": 138319,
+        "curb_space": "",
+        "on_street": "2nd Ave",
+        "neighborhood": "Downtown",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": "Night"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337946195,
+          47.6087557474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1420 5th Ave on Pike St",
+        "master_address_id": 137931,
+        "curb_space": "",
+        "on_street": "Pike St",
+        "neighborhood": "Downtown",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": "Day"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334664707,
+          47.6105449779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1426 1st Ave",
+        "master_address_id": 138355,
+        "curb_space": "",
+        "on_street": "1st Ave",
+        "neighborhood": "Downtown",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": "Night"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.339244713,
+          47.6084923753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1501 8th Ave",
+        "master_address_id": 600089,
+        "curb_space": "",
+        "on_street": "8th Ave",
+        "neighborhood": "Downtown",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": "Day"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.332917524,
+          47.6123826771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1524 Alaskan Way (Pike Hill Climb)",
+        "master_address_id": 602211,
+        "curb_space": "",
+        "on_street": "Pike Hill Climb",
+        "neighborhood": "Downtown",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": "Day"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.343172306,
+          47.6086696485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1628 5th Ave",
+        "master_address_id": 134191,
+        "curb_space": "",
+        "on_street": "5th Ave",
+        "neighborhood": "Downtown",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": "Day"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336655777,
+          47.6127287746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1651 E Olive Way",
+        "master_address_id": 129865,
+        "curb_space": "",
+        "on_street": "Olive Way",
+        "neighborhood": "Capitol Hill",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": "Night"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.323704958,
+          47.6195437685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1931 2nd Ave",
+        "master_address_id": 134393,
+        "curb_space": "",
+        "on_street": "2nd Ave",
+        "neighborhood": "Downtown",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": "Day"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.341672728,
+          47.6114379372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "2030 Westlake Ave",
+        "master_address_id": 133900,
+        "curb_space": "",
+        "on_street": "Westlake Ave",
+        "neighborhood": "South Lake Union",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": "Day"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337438183,
+          47.6160750351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "205 1st Ave S",
+        "master_address_id": 143550,
+        "curb_space": "",
+        "on_street": "1st Ave S",
+        "neighborhood": "Downtown",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": "Night"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334558436,
+          47.6007054854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "2101  7TH AVE ",
+        "master_address_id": 439112,
+        "curb_space": "",
+        "on_street": "",
+        "neighborhood": "",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.339366488,
+          47.6158639071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "2112  6TH AVE ",
+        "master_address_id": 133910,
+        "curb_space": "",
+        "on_street": "6th Ave",
+        "neighborhood": "",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.340066239,
+          47.6156821431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "206  Pine St",
+        "master_address_id": 134600,
+        "curb_space": "",
+        "on_street": "Pine St",
+        "neighborhood": "Downtown",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": "Day"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.339572235,
+          47.6106656496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "2101 8th Ave",
+        "master_address_id": 133842,
+        "curb_space": "",
+        "on_street": "8th Ave",
+        "neighborhood": "Denny Triangle",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": "Day"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.339090083,
+          47.6169546791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "2200 Westlake Ave",
+        "master_address_id": 129265,
+        "curb_space": "",
+        "on_street": "Westlake Ave",
+        "neighborhood": "Denny Triangle",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": "Day"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337285099,
+          47.6178259206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "2204 1st Ave",
+        "master_address_id": 133655,
+        "curb_space": "",
+        "on_street": "1st Ave",
+        "neighborhood": "Downtown",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": "Night"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.345101261,
+          47.6129064613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "300 Boren Ave N (On Thomas)",
+        "master_address_id": 668255,
+        "curb_space": "There are no spaces on Thomas",
+        "on_street": "Thomas St",
+        "neighborhood": "South Lake Union",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": "Day"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335534347,
+          47.621067509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "300 Boren Ave N (On Thomas)",
+        "master_address_id": 668255,
+        "curb_space": "",
+        "on_street": "Thomas St",
+        "neighborhood": "South Lake Union",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": "Day"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.335534347,
+          47.621067509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "301 Pike St",
+        "master_address_id": 138129,
+        "curb_space": "",
+        "on_street": "Pike St",
+        "neighborhood": "Downtown",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": "Day"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.337153015,
+          47.6095595192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "3817 Evanston Ave N",
+        "master_address_id": 98606,
+        "curb_space": "",
+        "on_street": "",
+        "neighborhood": "",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35170718,
+          47.6533739435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "3400 Stoneway Ave N",
+        "master_address_id": 99930,
+        "curb_space": "",
+        "on_street": "Stoneway Ave N",
+        "neighborhood": "Ballard",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": "Day"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.342329193,
+          47.6489156099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "400 Pine St (Westlake Center)",
+        "master_address_id": 134258,
+        "curb_space": "",
+        "on_street": "Westlake Center",
+        "neighborhood": "Downtown",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": "Day"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33717164,
+          47.6119241525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "501 Pine St",
+        "master_address_id": 134376,
+        "curb_space": "",
+        "on_street": "Pine St",
+        "neighborhood": "Downtown",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": "Day"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336014928,
+          47.6115944479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "511 Pine St",
+        "master_address_id": 134378,
+        "curb_space": "",
+        "on_street": "Pine St",
+        "neighborhood": "Downtown",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": "Day"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336014928,
+          47.6115944479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "532  FEDERAL AVE E",
+        "master_address_id": 130251,
+        "curb_space": "",
+        "on_street": "Federal Ave E",
+        "neighborhood": "Capitol Hill",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.318579456,
+          47.6240181296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "700 Pike St (on 8th)",
+        "master_address_id": 134927,
+        "curb_space": "",
+        "on_street": "on 8th",
+        "neighborhood": "Downtown",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": "Day"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33327319,
+          47.6118143883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "701 Pike St (on 7th)",
+        "master_address_id": 134913,
+        "curb_space": "",
+        "on_street": "on 7th",
+        "neighborhood": "Downtown",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": "Day"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.332781218,
+          47.6114963464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "811 E Pike St",
+        "master_address_id": 135561,
+        "curb_space": "",
+        "on_street": "Pike St",
+        "neighborhood": "Capitol Hill",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": "Night"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32175734,
+          47.6138353984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "820 4th Ave",
+        "master_address_id": 139116,
+        "curb_space": "",
+        "on_street": "th Ave",
+        "neighborhood": "Downtown",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": "Day"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.331586616,
+          47.6051526138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "901 E Pike St",
+        "master_address_id": 135564,
+        "curb_space": "",
+        "on_street": "E Pike St",
+        "neighborhood": "Capitol Hill",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": "Night"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.320339218,
+          47.6139001795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "901 Pine St",
+        "master_address_id": 134840,
+        "curb_space": "",
+        "on_street": "Pine St",
+        "neighborhood": "Downtown",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": "Night"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.331363034,
+          47.6132659069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "905 E Pike St on Broadway",
+        "master_address_id": 135566,
+        "curb_space": "",
+        "on_street": "on Broadway",
+        "neighborhood": "Capitol Hill",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": "Night"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.320339218,
+          47.6139001795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "925 E Pike St, Neumos",
+        "master_address_id": 135582,
+        "curb_space": "",
+        "on_street": "St, Neumos",
+        "neighborhood": "Capitol Hill",
+        "type": "Sidewalk",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": "Night"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.319779158,
+          47.6138475236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1000 Occidental Ave S",
+        "master_address_id": 147540,
+        "curb_space": "",
+        "on_street": "Occidental Ave S",
+        "neighborhood": "SODO/ID",
+        "type": "Stadium",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.332035797,
+          47.5932139441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "101 S King St",
+        "master_address_id": 143740,
+        "curb_space": "",
+        "on_street": "S King St",
+        "neighborhood": "SODO/ID",
+        "type": "Stadium",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33368975,
+          47.5980972218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "101 S King St",
+        "master_address_id": 143740,
+        "curb_space": "",
+        "on_street": "S King St",
+        "neighborhood": "SODO/ID",
+        "type": "Stadium",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33368975,
+          47.5980972218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1016 Occidental Ave S",
+        "master_address_id": 147543,
+        "curb_space": "",
+        "on_street": "Occidental Ave S",
+        "neighborhood": "SODO/ID",
+        "type": "Stadium",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.333711768,
+          47.5936325627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1016 Occidental Ave S",
+        "master_address_id": 147543,
+        "curb_space": "",
+        "on_street": "Occidental Ave S",
+        "neighborhood": "SODO/ID",
+        "type": "Stadium",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.333711768,
+          47.5936325627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1021 Occidental Ave S",
+        "master_address_id": 147547,
+        "curb_space": "",
+        "on_street": "Occidental Ave S",
+        "neighborhood": "SODO/ID",
+        "type": "Stadium",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.333687888,
+          47.5934654631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1029 Occidental Ave S",
+        "master_address_id": 147550,
+        "curb_space": "",
+        "on_street": "Occidental Ave S",
+        "neighborhood": "SODO/ID",
+        "type": "Stadium",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.333683701,
+          47.5933026257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1030 1st Ave S",
+        "master_address_id": 147598,
+        "curb_space": "",
+        "on_street": "Occidental Ave S",
+        "neighborhood": "SODO/ID",
+        "type": "Stadium",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.333683701,
+          47.5933026257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1201 4th Ave S",
+        "master_address_id": 147687,
+        "curb_space": "",
+        "on_street": "4th Ave S",
+        "neighborhood": "SODO/ID",
+        "type": "Stadium",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.329582857,
+          47.5920976607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1251 1st Ave S",
+        "master_address_id": 147576,
+        "curb_space": "",
+        "on_street": "S Atlantic St",
+        "neighborhood": "SODO/ID",
+        "type": "Stadium",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.334867874,
+          47.5908086122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1526 Occidental Ave S",
+        "master_address_id": 150120,
+        "curb_space": "",
+        "on_street": "Occidental Ave S",
+        "neighborhood": "SODO/ID",
+        "type": "Stadium",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.333428144,
+          47.5892806546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "820  OCCIDENTAL AVE S",
+        "master_address_id": 147531,
+        "curb_space": "",
+        "on_street": "Occidental Ave S",
+        "neighborhood": "SODO/ID",
+        "type": "Stadium",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.333781129,
+          47.5950808119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "901 Occidental Ave S",
+        "master_address_id": 147533,
+        "curb_space": "",
+        "on_street": "Occidental Ave S",
+        "neighborhood": "SODO/ID",
+        "type": "Stadium",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.333678019,
+          47.5948577136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "901 1st Ave S",
+        "master_address_id": 147525,
+        "curb_space": "",
+        "on_street": "Occidental Ave S",
+        "neighborhood": "SODO/ID",
+        "type": "Stadium",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3346665,
+          47.5941278632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "902 1st Ave S (Occidental)",
+        "master_address_id": 147591,
+        "curb_space": "",
+        "on_street": "Occidental Ave S",
+        "neighborhood": "SODO/ID",
+        "type": "Stadium",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33382369,
+          47.5946423739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "922  1ST AVE S (Occidental)",
+        "master_address_id": 147597,
+        "curb_space": "",
+        "on_street": "Occidental Ave S",
+        "neighborhood": "SODO/ID",
+        "type": "Stadium",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3337067,
+          47.5942581622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1510 1st Ave",
+        "master_address_id": 138160,
+        "curb_space": "01-15-08/10",
+        "on_street": "1st Ave",
+        "neighborhood": "",
+        "type": "",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.339911057,
+          47.6092657468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1000 4th Ave",
+        "master_address_id": 139026,
+        "curb_space": "04-10-14/16",
+        "on_street": "4th Ave",
+        "neighborhood": "",
+        "type": "",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "Site B is inelligable due to parking meters",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.332968269,
+          47.6064852822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "1915 Terry Ave on Terry",
+        "master_address_id": 133867,
+        "curb_space": "19-09-16/18",
+        "on_street": "Terry St",
+        "neighborhood": "",
+        "type": "",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.333907744,
+          47.6162770817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "2033  6TH AVE ",
+        "master_address_id": 133976,
+        "curb_space": "06-20-25/27",
+        "on_street": "6th Ave",
+        "neighborhood": "",
+        "type": "",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.339692731,
+          47.6148144582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "2121 6th Ave",
+        "master_address_id": 631685,
+        "curb_space": "",
+        "on_street": "",
+        "neighborhood": "",
+        "type": "",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34041081,
+          47.615307135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "409 Pike St",
+        "master_address_id": 138046,
+        "curb_space": "15-04-05/07",
+        "on_street": "Pike St",
+        "neighborhood": "",
+        "type": "",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33610264,
+          47.610047996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "500 Olive Way on Olive",
+        "master_address_id": 134159,
+        "curb_space": "17-05-08/12",
+        "on_street": "Olive Way",
+        "neighborhood": "",
+        "type": "",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.336951302,
+          47.6131943437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "801 5th Ave",
+        "master_address_id": 139094,
+        "curb_space": "8-04-18",
+        "on_street": "Columbia St",
+        "neighborhood": "",
+        "type": "",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.330974565,
+          47.6051760099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address": "904 1st Ave S (Occidental)",
+        "master_address_id": 147534,
+        "curb_space": "",
+        "on_street": "Occidental Ave S",
+        "neighborhood": "",
+        "type": "",
+        "monday": "",
+        "tuesday": "",
+        "wednesday": "",
+        "thursday": "",
+        "friday": "",
+        "saturday": "",
+        "sunday": "",
+        "notes": "",
+        "everyday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.333660817,
+          47.5944759701
+        ]
+      }
+    }
+  ]
+}
