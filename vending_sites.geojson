@@ -4848,9 +4848,12 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "address": "101 S King St",
         "master_address_id": 143740,
-        "curb_space": "",
+        "curb_space": "101-KNG-AB",
         "site": "A",
         "on_street": "S King St",
         "neighborhood": "SODO/ID",
@@ -4868,36 +4871,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33368975,
-          47.5980972218
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "address": "101 S King St",
-        "master_address_id": 143740,
-        "curb_space": "",
-        "site": "A",
-        "on_street": "S King St",
-        "neighborhood": "SODO/ID",
-        "type": "Stadium",
-        "monday": "",
-        "tuesday": "",
-        "wednesday": "",
-        "thursday": "",
-        "friday": "",
-        "saturday": "",
-        "sunday": "",
-        "notes": "",
-        "everyday": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33368975,
-          47.5980972218
+          -122.333664894104,
+          47.59826694353669
         ]
       }
     },
@@ -4924,17 +4899,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.333711768,
-          47.5936325627
+          -122.33325183391571,
+          47.59369801875574
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "address": "1016 Occidental Ave S",
         "master_address_id": 147543,
-        "curb_space": "",
+        "curb_space": "1016-OCC-B",
         "site": "B",
         "on_street": "Occidental Ave S",
         "neighborhood": "SODO/ID",
@@ -4952,8 +4930,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.333711768,
-          47.5936325627
+          -122.33325183391571,
+          47.593580444167415
         ]
       }
     },
@@ -4980,8 +4958,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.333687888,
-          47.5934654631
+          -122.33324915170671,
+          47.5934357366191
         ]
       }
     },
@@ -5008,8 +4986,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.333683701,
-          47.5933026257
+          -122.33324646949767,
+          47.593204203709476
         ]
       }
     },
@@ -5036,8 +5014,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.333683701,
-          47.5933026257
+          -122.33324646949767,
+          47.593310926037276
         ]
       }
     },
@@ -5092,8 +5070,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.334867874,
-          47.5908086122
+          -122.33422815799713,
+          47.59081103401302
         ]
       }
     },
@@ -5120,17 +5098,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.333428144,
-          47.5892806546
+          -122.33327865600585,
+          47.58927703246563
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "address": "820  OCCIDENTAL AVE S",
         "master_address_id": 147531,
-        "curb_space": "",
+        "curb_space": "820-OCC-AB",
         "site": "A",
         "on_street": "Occidental Ave S",
         "neighborhood": "SODO/ID",
@@ -5148,17 +5129,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.333781129,
-          47.5950808119
+          -122.33327060937881,
+          47.59503473280865
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "address": "901 Occidental Ave S",
         "master_address_id": 147533,
-        "curb_space": "",
+        "curb_space": "901-OCC-AB",
         "site": "A",
         "on_street": "Occidental Ave S",
         "neighborhood": "SODO/ID",
@@ -5176,45 +5160,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.333678019,
-          47.5948577136
+          -122.3332679271698,
+          47.59483214775919
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "address": "901 1st Ave S",
-        "master_address_id": 147525,
-        "curb_space": "",
-        "site": "A",
-        "on_street": "Occidental Ave S",
-        "neighborhood": "SODO/ID",
-        "type": "Stadium",
-        "monday": "",
-        "tuesday": "",
-        "wednesday": "",
-        "thursday": "",
-        "friday": "",
-        "saturday": "",
-        "sunday": "",
-        "notes": "",
-        "everyday": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.3346665,
-          47.5941278632
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "address": "902 1st Ave S (Occidental)",
         "master_address_id": 147591,
-        "curb_space": "",
+        "curb_space": "902-OCC-AB",
         "site": "A",
         "on_street": "Occidental Ave S",
         "neighborhood": "SODO/ID",
@@ -5232,8 +5191,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33382369,
-          47.5946423739
+          -122.33325988054276,
+          47.59464403236811
         ]
       }
     },
@@ -5260,8 +5219,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3337067,
-          47.5942581622
+          -122.33324110507964,
+          47.594258755465944
         ]
       }
     },
@@ -5492,9 +5451,12 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "address": "904 1st Ave S (Occidental)",
         "master_address_id": 147534,
-        "curb_space": "",
+        "curb_space": "904-OCC-AB",
         "site": "A",
         "on_street": "Occidental Ave S",
         "neighborhood": "",
@@ -5512,8 +5474,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.333660817,
-          47.5944759701
+          -122.33324915170671,
+          47.5944667691692
         ]
       }
     }
