@@ -34,8 +34,8 @@
       "properties": {
         "address": "1000 4th Ave",
         "master_address_id": 139026,
-        "curb_space": "04-10-14/16",
-        "site": "A",
+        "curb_space": "04-10-14/16-AB",
+        "site": "AB",
         "on_street": "4th Ave",
         "neighborhood": "Downtown",
         "type": "Food Vehicle",
@@ -62,8 +62,8 @@
       "properties": {
         "address": "1000 Mercer St",
         "master_address_id": 128962,
-        "curb_space": "N6-10-02/04",
-        "site": "A",
+        "curb_space": "N6-10-02/04-AB",
+        "site": "AB",
         "on_street": "Mercer St",
         "neighborhood": "South Lake Union",
         "type": "Food Vehicle",
