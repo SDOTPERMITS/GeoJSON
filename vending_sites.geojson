@@ -80,8 +80,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33673866,
-          47.6248921355
+          -122.33674407005309,
+          47.62473208538527
         ]
       }
     },
@@ -164,8 +164,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.336192711,
-          47.623339321
+          -122.33610570430754,
+          47.62325692849741
         ]
       }
     },
@@ -192,8 +192,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33645624,
-          47.624239785
+          -122.33644098043442,
+          47.62451153761484
         ]
       }
     },
@@ -2608,9 +2608,12 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "address": "500 Boren Ave N",
         "master_address_id": 600213,
-        "curb_space": "NBN-05-02/04",
+        "curb_space": "NBN-05-02/04-A",
         "site": "A",
         "on_street": "Boren Ave N",
         "neighborhood": "South Lake Union",
@@ -2628,17 +2631,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.335603342,
-          47.6238338855
+          -122.3357892036438,
+          47.62358052652607
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "address": "500 Boren Ave N",
         "master_address_id": 600213,
-        "curb_space": "NBN-05-06/08",
+        "curb_space": "NBN-05-06/08-B",
         "site": "B",
         "on_street": "Boren Ave N",
         "neighborhood": "South Lake Union",
@@ -2656,8 +2662,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.335603342,
-          47.6238338855
+          -122.3357892036438,
+          47.623457595667325
         ]
       }
     },
@@ -2684,8 +2690,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.335603342,
-          47.6238338855
+          -122.33566850423813,
+          47.62322438780268
         ]
       }
     },
@@ -2768,8 +2774,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.336731111,
-          47.6235906392
+          -122.33709812164307,
+          47.62357329530707
         ]
       }
     },
@@ -2860,9 +2866,12 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "address": "511 Boren Ave N",
         "master_address_id": 128991,
-        "curb_space": "",
+        "curb_space": "A",
         "site": "A",
         "on_street": "Boren Ave N",
         "neighborhood": "South Lake Union",
@@ -2880,17 +2889,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.336215409,
-          47.6235314228
+          -122.33589649200438,
+          47.623450364431335
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "address": "511 Boren Ave N",
         "master_address_id": 128991,
-        "curb_space": "",
+        "curb_space": "B",
         "site": "B",
         "on_street": "Boren Ave N",
         "neighborhood": "South Lake Union",
@@ -2908,8 +2920,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.336215409,
-          47.6235314228
+          -122.33589380979537,
+          47.6235769109167
         ]
       }
     },
@@ -2944,9 +2956,12 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "address": "535 Terry Ave N on Mercer St",
         "master_address_id": 602301,
-        "curb_space": "N6-09-69",
+        "curb_space": "N6-09-69-AB",
         "site": "A",
         "on_street": "Mercer St",
         "neighborhood": "South Lake Union",
@@ -2964,17 +2979,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.337552215,
-          47.6240191113
+          -122.33751118183135,
+          47.62446453551074
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "address": "551 Boren Ave N",
         "master_address_id": 636690,
-        "curb_space": "NBN-05-25",
+        "curb_space": "NBN-05-25-B",
         "site": "B",
         "on_street": "Boren Ave N",
         "neighborhood": "South Lake Union",
@@ -2992,17 +3010,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33645624,
-          47.624239785
+          -122.33587771654129,
+          47.624193368700055
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "address": "551 Boren Ave N",
         "master_address_id": 636690,
-        "curb_space": "NBN-05-31/33",
+        "curb_space": "NBN-05-31/33-A",
         "site": "A",
         "on_street": "Boren Ave N",
         "neighborhood": "South Lake Union",
@@ -3020,8 +3041,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33645624,
-          47.624239785
+          -122.33587503433228,
+          47.624318105607664
         ]
       }
     },
@@ -3448,9 +3469,12 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "address": "850 Republican St",
         "master_address_id": 645398,
-        "curb_space": "N5-08-22",
+        "curb_space": "N5-08-22-AB",
         "site": "A",
         "on_street": "Republican St",
         "neighborhood": "South Lake Union",
@@ -3468,8 +3492,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.340364255,
-          47.6240466496
+          -122.34034359455109,
+          47.62324608160143
         ]
       }
     },
@@ -3608,8 +3632,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.337428206,
-          47.6234846723
+          -122.33742803335188,
+          47.62322800343643
         ]
       }
     },
@@ -3748,8 +3772,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33645624,
-          47.624239785
+          -122.33706057071684,
+          47.624254833300405
         ]
       }
     },
