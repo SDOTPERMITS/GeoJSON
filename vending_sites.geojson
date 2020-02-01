@@ -248,8 +248,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.334836256,
-          47.6226128471
+          -122.33483165502548,
+          47.62203302286609
         ]
       }
     },
@@ -1992,9 +1992,12 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "address": "400 Boren Ave N on Harrison St",
         "master_address_id": 129070,
-        "curb_space": "N4-11-02/05",
+        "curb_space": "N4-11-02/05-A",
         "site": "A",
         "on_street": "Harrison St",
         "neighborhood": "South Lake Union",
@@ -2012,17 +2015,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.335584616,
-          47.6222059209
+          -122.3356255888939,
+          47.6220294071497
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "address": "400 Boren Ave N on Harrison St",
         "master_address_id": 129070,
-        "curb_space": "N4-11-05/08",
+        "curb_space": "N4-11-05/08-B",
         "site": "B",
         "on_street": "Harrison St",
         "neighborhood": "South Lake Union",
@@ -2040,17 +2046,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.335584616,
-          47.6222059209
+          -122.33554244041441,
+          47.6220294071497
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "address": "400 Dexter Ave N",
         "master_address_id": 129053,
-        "curb_space": "N4-07-60/62",
+        "curb_space": "N4-07-60/62-A",
         "site": "A",
         "on_street": "Harrison St",
         "neighborhood": "South Lake Union",
@@ -2068,17 +2077,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.341942235,
-          47.6223098858
+          -122.34195023775102,
+          47.622070987873194
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "address": "400 Dexter Ave N",
         "master_address_id": 129053,
-        "curb_space": "N4-07-64/66",
+        "curb_space": "N4-07-64/66-B",
         "site": "B",
         "on_street": "Harrison St",
         "neighborhood": "South Lake Union",
@@ -2096,17 +2108,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.341942235,
-          47.6223098858
+          -122.34186708927153,
+          47.622070987873194
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "address": "401 8th Ave N",
         "master_address_id": 129056,
-        "curb_space": "N08-04-03/05",
+        "curb_space": "N08-04-03/05-A",
         "site": "A",
         "on_street": "8th Ave N",
         "neighborhood": "South Lake Union",
@@ -2124,8 +2139,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.341445431,
-          47.6223119428
+          -122.34110534191133,
+          47.62218669058186
         ]
       }
     },
@@ -2152,8 +2167,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.341445431,
-          47.6223119428
+          -122.34110265970229,
+          47.62230420088324
         ]
       }
     },
@@ -2244,9 +2259,12 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "address": "401 Terry Ave N on Harrison St",
         "master_address_id": 600053,
-        "curb_space": "N4-09-66/68",
+        "curb_space": "N4-09-66/68-B",
         "site": "B",
         "on_street": "Harrison St",
         "neighborhood": "South Lake Union",
@@ -2264,17 +2282,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.337534285,
-          47.6225361245
+          -122.33747094869612,
+          47.622058332873884
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "address": "401 Terry Ave N on Harrison St",
         "master_address_id": 600053,
-        "curb_space": "N4-69-62/64",
+        "curb_space": "N4-69-62/64-A",
         "site": "A",
         "on_street": "Harrison St",
         "neighborhood": "South Lake Union",
@@ -2292,8 +2313,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.337534285,
-          47.6225361245
+          -122.3375567793846,
+          47.622060140731115
         ]
       }
     },
@@ -2356,9 +2377,12 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "address": "424 Boren Ave N",
         "master_address_id": 129298,
-        "curb_space": "NBN-04-26/28",
+        "curb_space": "NBN-04-26/28-A",
         "site": "A",
         "on_street": "Boren Ave N",
         "neighborhood": "South Lake Union",
@@ -2376,17 +2400,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.335479237,
-          47.6229078927
+          -122.33579188585281,
+          47.62287005448223
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "address": "424 Boren Ave N",
         "master_address_id": 129298,
-        "curb_space": "NBN-04-26/28",
+        "curb_space": "NBN-04-26/28-B",
         "site": "B",
         "on_street": "Boren Ave N",
         "neighborhood": "South Lake Union",
@@ -2404,8 +2431,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.335479237,
-          47.6229078927
+          -122.33579456806183,
+          47.62298937107264
         ]
       }
     },
@@ -2432,17 +2459,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.335479237,
-          47.6229078927
+          -122.33542710542679,
+          47.62317015326646
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "address": "424 Boren Ave N on Republican St",
         "master_address_id": 129298,
-        "curb_space": "N5-11-03/07",
+        "curb_space": "N5-11-03/07-B",
         "site": "B",
         "on_street": "Republican St",
         "neighborhood": "South Lake Union",
@@ -2460,17 +2490,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.335479237,
-          47.6229078927
+          -122.33550220727919,
+          47.62317015326646
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "address": "425 Terry Ave N on Republican St",
         "master_address_id": 129297,
-        "curb_space": "N5-09-67/69",
+        "curb_space": "N5-09-67/69-A",
         "site": "A",
         "on_street": "Republican St",
         "neighborhood": "South Lake Union",
@@ -2488,8 +2521,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.337534285,
-          47.6225361245
+          -122.33754605054854,
+          47.623173768903946
         ]
       }
     },
@@ -2516,8 +2549,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3380439,
-          47.6228591185
+          -122.33810395002365,
+          47.62317738454121
         ]
       }
     },
@@ -2544,8 +2577,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.338839593,
-          47.6229581059
+          -122.33883887529372,
+          47.62317196108524
         ]
       }
     },
@@ -3237,8 +3270,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.340688497,
-          47.62216502
+          -122.34085053205489,
+          47.622061948588296
         ]
       }
     },
