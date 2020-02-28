@@ -6259,6 +6259,21 @@
         "sunday": null,
         "type": "Food Vehicle"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d5d500",
+        "marker-size": "medium",
+        "marker-symbol": "star-stroked"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33327865600585,
+          47.634164150991175
+        ]
+      }
     }
   ]
 }
