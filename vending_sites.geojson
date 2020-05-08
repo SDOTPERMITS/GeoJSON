@@ -6287,6 +6287,30 @@
           47.62066445634356
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#af4bb1",
+        "marker-size": "medium",
+        "marker-symbol": "car",
+        "on_street": "6th Ave",
+        "site_id": "TRK_2121_6TH_6TH-A",
+        "monday": "10AM-2PM",
+        "tuesday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "address": "2121 6th Ave",
+        "neighborhood": "Downtown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33985006809233,
+          47.61524407480172
+        ]
+      }
     }
   ]
 }
