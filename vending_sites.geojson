@@ -2406,16 +2406,16 @@
         "site_id": "TRK_401_ELLI_ELLI-A",
         "site": "A",
         "address": "401 Elliott Ave W site A",
-        "neighborhood": "South Lake Union",
-        "everyday": null,
+        "neighborhood": "Lower Queen Anne",
+        "everyday": "null",
         "marker-size": "medium",
         "master_address_id": 128477,
         "monday": "10AM-2PM",
-        "notes": null,
+        "notes": "null",
         "wednesday": "10AM-2PM",
         "thursday": "10AM-2PM",
-        "saturday": null,
-        "sunday": null,
+        "saturday": "null",
+        "sunday": "null",
         "type": "Food Vehicle"
       }
     },
@@ -6302,7 +6302,8 @@
         "thursday": "10AM-2PM",
         "friday": "10AM-2PM",
         "address": "2121 6th Ave",
-        "neighborhood": "Downtown"
+        "neighborhood": "Downtown",
+        "type": "Food Vehicle"
       },
       "geometry": {
         "type": "Point",
@@ -6321,7 +6322,9 @@
         "site_id": "TRK_301_100TH_3RD-A",
         "monday": "10AM-2PM",
         "on_street": "3rd Ave NE",
-        "neighborhood": "North Seattle"
+        "neighborhood": "North Seattle",
+        "address": "301 100th Ave NE",
+        "type": "Food Vehicle"
       },
       "geometry": {
         "type": "Point",
@@ -6342,17 +6345,42 @@
         "tuesday": "5PM-9PM",
         "wednesday": "4PM-9PM",
         "thursday": "5PM-9PM",
-        "friday": "",
+        "friday": "5PM-9PM",
         "saturday": "5PM-9PM",
-        "sunday": "",
+        "sunday": "5PM-9PM",
         "on_street": "N 34th St",
-        "neighborhood": "North Lake Union"
+        "neighborhood": "North Lake Union",
+        "address": "936 N 34th St",
+        "type": "Food Vehicle"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -122.34547197818756,
           47.648970397100435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#af4bb1",
+        "marker-size": "medium",
+        "marker-symbol": "fast-food",
+        "on_street": "1st Ave N",
+        "everyday": "Day",
+        "neighborhood": "Lower Queen Anne",
+        "master_address_id": "",
+        "type": "Sidewalk",
+        "thursday": "",
+        "site_id": "SDW_334_1ST_1ST-A",
+        "address": "334 1st Ave N"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3553854227066,
+          47.622456059958395
         ]
       }
     }
