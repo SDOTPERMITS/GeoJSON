@@ -6259,6 +6259,34 @@
         "sunday": null,
         "type": "Food Vehicle"
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#af4bb1",
+        "marker-size": "medium",
+        "marker-symbol": "car",
+        "on_street": "8th Ave",
+        "type": "Food Vehicle",
+        "tuesday": "10AM-2PM",
+        "friday": "10AM-2PM",
+        "site_id": "TRK_230_8TH_8TH-A",
+        "site": "",
+        "address": "230 8th Ave N",
+        "neighborhood": "South Lake Union",
+        "monday": "10AM-2PM",
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "saturday": "",
+        "sunday": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34112948179244,
+          47.62066445634356
+        ]
+      }
     }
   ]
 }
