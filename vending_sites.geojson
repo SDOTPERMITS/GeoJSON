@@ -3302,19 +3302,19 @@
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
         "friday": "10AM-2PM",
-        "site_id": "TRK_551_BORE_BORE-A",
-        "site": "A",
+        "site_id": "TRK_551_BORE_BORE-B",
+        "site": "B",
         "address": "551 Boren Ave N site B",
         "neighborhood": "South Lake Union",
-        "everyday": null,
+        "everyday": "null",
         "marker-size": "medium",
         "master_address_id": 636690,
         "monday": "10AM-2PM",
-        "notes": null,
+        "notes": "null",
         "wednesday": "10AM-2PM",
         "thursday": "10AM-2PM",
-        "saturday": null,
-        "sunday": null,
+        "saturday": "null",
+        "sunday": "null",
         "type": "Food Vehicle"
       }
     },
@@ -6309,6 +6309,25 @@
         "coordinates": [
           -122.33985006809233,
           47.61524407480172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#af4bb1",
+        "marker-size": "medium",
+        "marker-symbol": "car",
+        "site_id": "TRK_301_100TH_3RD-A",
+        "monday": "10AM-2PM",
+        "on_street": "3rd Ave NE",
+        "neighborhood": "North Seattle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32573360204697,
+          47.701305264659204
         ]
       }
     }
