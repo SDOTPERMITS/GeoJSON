@@ -3426,19 +3426,19 @@
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
         "friday": "10AM-2PM",
-        "site_id": "TRK_601_PINE_6TH-B",
-        "site": "B",
+        "site_id": "TRK_601_PINE_6TH-A",
+        "site": "A",
         "address": "601 Pine St",
         "neighborhood": "Downtown",
-        "everyday": null,
+        "everyday": "null",
         "marker-size": "medium",
         "master_address_id": 134306,
         "monday": "10AM-2PM",
-        "notes": null,
+        "notes": "null",
         "wednesday": "10AM-2PM",
         "thursday": "10AM-2PM",
-        "saturday": null,
-        "sunday": null,
+        "saturday": "10AM-2PM;4PM-8PM",
+        "sunday": "10AM-2PM;4PM-8PM",
         "type": "Food Vehicle"
       }
     },
@@ -6328,6 +6328,31 @@
         "coordinates": [
           -122.32573360204697,
           47.701305264659204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#af4bb1",
+        "marker-size": "medium",
+        "marker-symbol": "car",
+        "site_id": "TRK_936_34TH_34TH-A",
+        "monday": "4PM-9PM",
+        "tuesday": "5PM-9PM",
+        "wednesday": "4PM-9PM",
+        "thursday": "5PM-9PM",
+        "friday": "",
+        "saturday": "5PM-9PM",
+        "sunday": "",
+        "on_street": "N 34th St",
+        "neighborhood": "North Lake Union"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34547197818756,
+          47.648970397100435
         ]
       }
     }
