@@ -6398,13 +6398,35 @@
         "notes": "new site",
         "wednesday": "10AM-2PM",
         "thursday": "10AM-2PM",
-        "neighborhood": "Denny Triangle"
+        "neighborhood": "Denny Triangle",
+        "type": "Food Vehicle"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -122.33536943793297,
           47.61623580435125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#af4bb1",
+        "marker-size": "medium",
+        "marker-symbol": "car",
+        "site_id": "TRK_601_PIN_6TH-B",
+        "tuesday": "10AM-2PM",
+        "on_street": "6th Ave",
+        "address": "601 Pine St",
+        "neighborhood": "Denny Triangle",
+        "type": "Food Vehicle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33517900109291,
+          47.61201924168461
         ]
       }
     }
