@@ -6387,32 +6387,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#af4bb1",
-        "marker-size": "medium",
-        "marker-symbol": "car",
-        "on_street": "6th Ave",
-        "tuesday": "10AM-2PM",
-        "friday": "10AM-2PM",
-        "site_id": "TRK_601_PINE_6TH-B",
-        "address": "601 Pine St Site B",
-        "monday": "10AM-2PM",
-        "wednesday": "10AM-2PM",
-        "thursday": "10AM-2PM",
-        "saturday": "",
-        "sunday": "",
-        "type": "Food Vehicle"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33516760170458,
-          47.61199121450885
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "on_street": "9th Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
