@@ -5,26 +5,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33386440971469,
-          47.60093067451106
+          -122.33386440999999,
+          47.60093067400004
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "S Washington St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": null,
         "friday": null,
-        "site_id": 0,
+        "site_id": "0",
         "site": "A",
         "address": "100 block of S Washington St",
         "neighborhood": "SODO/ID",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 0,
         "monday": null,
-        "notes": "w/in 50' of Occidental",
+        "notes": null,
         "wednesday": null,
         "thursday": null,
         "saturday": null,
@@ -36,13 +34,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33323855351642,
-          47.6065644756701
+          -122.33323855399999,
+          47.606564476000074
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "4th Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -53,13 +50,12 @@
         "neighborhood": "Downtown",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 139026,
         "monday": "10AM-2PM",
-        "notes": "",
+        "notes": null,
         "wednesday": "10AM-2PM",
         "thursday": "10AM-2PM",
-        "saturday": "",
-        "sunday": "",
+        "saturday": null,
+        "sunday": null,
         "type": "Food Vehicle"
       }
     },
@@ -67,13 +63,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33675393684467,
-          47.62475302483227
+          -122.33675393699997,
+          47.624753025000075
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Mercer St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -82,15 +77,14 @@
         "site": "A",
         "address": "1000 Mercer St",
         "neighborhood": "South Lake Union",
-        "everyday": "",
+        "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 128962,
         "monday": "10AM-2PM",
-        "notes": "",
+        "notes": null,
         "wednesday": "10AM-2PM",
         "thursday": "10AM-2PM",
-        "saturday": "",
-        "sunday": "",
+        "saturday": null,
+        "sunday": null,
         "type": "Food Vehicle"
       }
     },
@@ -98,13 +92,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33328550082518,
-          47.61642478107882
+          -122.33328550099998,
+          47.616424781000035
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Stewart St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -113,15 +106,14 @@
         "site": "A",
         "address": "1007 Stewart St site A",
         "neighborhood": "Denny Triangle",
-        "everyday": "",
+        "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 135027,
         "monday": "10AM-2PM",
-        "notes": "",
+        "notes": null,
         "wednesday": "10AM-2PM",
         "thursday": "10AM-2PM",
-        "saturday": "",
-        "sunday": "",
+        "saturday": null,
+        "sunday": null,
         "type": "Food Vehicle"
       }
     },
@@ -129,13 +121,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33333475939162,
-          47.616387647172246
+          -122.33333475899997,
+          47.61638764700007
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Stewart St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -144,44 +135,12 @@
         "site": "B",
         "address": "1007 Stewart St site B",
         "neighborhood": "Denny Triangle",
-        "everyday": "",
+        "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 135027,
         "monday": "10AM-2PM",
-        "notes": "Site B is inelligable due to parking meters",
+        "notes": null,
         "wednesday": "10AM-2PM",
         "thursday": "10AM-2PM",
-        "saturday": "",
-        "sunday": "",
-        "type": "Food Vehicle"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33610570461457,
-          47.62325692886424
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "Republican St",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": null,
-        "friday": null,
-        "site_id": "NS-10-XX2-AB",
-        "site": "A",
-        "address": "1016 Republican St",
-        "neighborhood": "South Lake Union",
-        "everyday": null,
-        "marker-size": "small",
-        "master_address_id": 129008,
-        "monday": null,
-        "notes": null,
-        "wednesday": null,
-        "thursday": null,
         "saturday": null,
         "sunday": null,
         "type": "Food Vehicle"
@@ -191,44 +150,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33632480824326,
-          47.6244925263091
+          -122.33280576299995,
+          47.60114617600004
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Mercer St",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": null,
-        "friday": null,
-        "site_id": "N6-10-XX1-AB",
-        "site": "A",
-        "address": "1041 Mercer St",
-        "neighborhood": "South Lake Union",
-        "everyday": null,
-        "marker-size": "small",
-        "master_address_id": 629028,
-        "monday": "Not Eligible",
-        "notes": null,
-        "wednesday": null,
-        "thursday": null,
-        "saturday": null,
-        "sunday": null,
-        "type": "Food Vehicle"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33280576287564,
-          47.60114617635503
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "Occidental Ave S",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -239,7 +166,6 @@
         "neighborhood": "SODO/ID",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 144462,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -253,137 +179,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33485384922574,
-          47.62207371153261
+          -122.33830225199995,
+          47.608522245000074
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Harrison St",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": null,
-        "friday": null,
-        "site_id": "N4-11-XX2-AB",
-        "site": "",
-        "address": "1124 Harrison St",
-        "neighborhood": "South Lake Union",
-        "everyday": null,
-        "marker-size": "small",
-        "master_address_id": 607730,
-        "monday": null,
-        "notes": null,
-        "wednesday": null,
-        "thursday": null,
-        "saturday": null,
-        "sunday": null,
-        "type": "Food Vehicle"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33518491215392,
-          47.60941244243031
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "Union St",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": null,
-        "friday": null,
-        "site_id": "14-04-XX1-AB",
-        "site": null,
-        "address": "1301 5th Ave",
-        "neighborhood": "Downtown",
-        "everyday": null,
-        "marker-size": "small",
-        "master_address_id": 138373,
-        "monday": null,
-        "notes": null,
-        "wednesday": null,
-        "thursday": null,
-        "saturday": null,
-        "sunday": null,
-        "type": "Food Vehicle"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33300006949759,
-          47.60964221831375
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "6th Ave",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": null,
-        "friday": null,
-        "site_id": "06-13-XX2-AB",
-        "site": null,
-        "address": "1314 6th Ave",
-        "neighborhood": "Downtown",
-        "everyday": null,
-        "marker-size": "small",
-        "master_address_id": 426794,
-        "monday": null,
-        "notes": null,
-        "wednesday": null,
-        "thursday": null,
-        "saturday": null,
-        "sunday": null,
-        "type": "Food Vehicle"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.335026168323,
-          47.60959414145651
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "Union St",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": null,
-        "friday": null,
-        "site_id": 0,
-        "site": "A",
-        "address": "1405 5th Ave on Union St",
-        "neighborhood": "Downtown",
-        "everyday": null,
-        "marker-size": "small",
-        "master_address_id": 138742,
-        "monday": null,
-        "notes": null,
-        "wednesday": null,
-        "thursday": null,
-        "saturday": null,
-        "sunday": null,
-        "type": "Food Vehicle"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33830225194731,
-          47.608522244905714
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "2nd Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -394,7 +195,6 @@
         "neighborhood": "Downtown",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 138282,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -408,13 +208,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33620113077751,
-          47.609582029387184
+          -122.33620113099994,
+          47.60958202900008
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "4th Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -425,7 +224,6 @@
         "neighborhood": "Downtown",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 138155,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -439,13 +237,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33624320645879,
-          47.609626759867126
+          -122.33624320599995,
+          47.609626760000026
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "4th Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -456,7 +253,6 @@
         "neighborhood": "Downtown",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 138155,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -470,168 +266,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33523807467736,
-          47.610749634488116
+          -122.33028563899995,
+          47.61672849800004
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Pike St",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": null,
-        "friday": null,
-        "site_id": "15-05-03-AB",
-        "site": null,
-        "address": "1420 5th Ave on Pike St",
-        "neighborhood": "Downtown",
-        "everyday": null,
-        "marker-size": "small",
-        "master_address_id": 137931,
-        "monday": null,
-        "notes": null,
-        "wednesday": null,
-        "thursday": null,
-        "saturday": null,
-        "sunday": null,
-        "type": "Food Vehicle"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.32173096171448,
-          47.61412585492434
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "E Pike St",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": null,
-        "friday": "10PM-2AM",
-        "site_id": 0,
-        "site": "A",
-        "address": "1500 Harvard on E Pike St",
-        "neighborhood": "Capitol Hill",
-        "everyday": null,
-        "marker-size": "small",
-        "master_address_id": 135347,
-        "monday": null,
-        "notes": null,
-        "wednesday": null,
-        "thursday": null,
-        "saturday": "10PM-2AM",
-        "sunday": null,
-        "type": "Food Vehicle"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33470756640105,
-          47.61150147851049
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "6th Ave",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": "10AM-2PM",
-        "friday": null,
-        "site_id": 0,
-        "site": "A",
-        "address": "1506 6th Ave",
-        "neighborhood": "Downtown",
-        "everyday": null,
-        "marker-size": "small",
-        "master_address_id": 134386,
-        "monday": null,
-        "notes": null,
-        "wednesday": null,
-        "thursday": null,
-        "saturday": null,
-        "sunday": null,
-        "type": "Food Vehicle"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33915806839013,
-          47.609449034045724
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "2nd Ave",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": null,
-        "friday": null,
-        "site_id": 0,
-        "site": "A",
-        "address": "1507 2nd Ave",
-        "neighborhood": "Downtown",
-        "everyday": null,
-        "marker-size": "small",
-        "master_address_id": 138141,
-        "monday": null,
-        "notes": null,
-        "wednesday": null,
-        "thursday": null,
-        "saturday": null,
-        "sunday": null,
-        "type": "Food Vehicle"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33454682517583,
-          47.61301048694446
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "7th Ave",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": null,
-        "friday": null,
-        "site_id": 0,
-        "site": "A",
-        "address": "1600 7th Ave",
-        "neighborhood": "Downtown",
-        "everyday": null,
-        "marker-size": "small",
-        "master_address_id": 134138,
-        "monday": null,
-        "notes": null,
-        "wednesday": null,
-        "thursday": null,
-        "saturday": null,
-        "sunday": null,
-        "type": "Food Vehicle"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33028563857135,
-          47.616728498321606
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "Minor Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": null,
@@ -642,9 +282,8 @@
         "neighborhood": "Downtown",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 134631,
         "monday": null,
-        "notes": "was MR-17-04/06?",
+        "notes": null,
         "wednesday": "10AM-2PM",
         "thursday": null,
         "saturday": null,
@@ -656,44 +295,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33554799004764,
-          47.61378892391974
+          -122.335513747,
+          47.61470207600007
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "7th Ave",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": null,
-        "friday": null,
-        "site_id": 0,
-        "site": "A",
-        "address": "1807 7th Ave",
-        "neighborhood": "Downtown",
-        "everyday": null,
-        "marker-size": "small",
-        "master_address_id": 134077,
-        "monday": null,
-        "notes": null,
-        "wednesday": null,
-        "thursday": null,
-        "saturday": null,
-        "sunday": null,
-        "type": "Food Vehicle"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33551374656213,
-          47.61470207574024
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "Stewart St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -702,15 +309,14 @@
         "site": "A",
         "address": "1831 8th Ave on Stewart St site A",
         "neighborhood": "Denny Triangle",
-        "everyday": "null",
+        "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 425252,
         "monday": "10AM-2PM",
-        "notes": "was 19-08-15/17?",
+        "notes": null,
         "wednesday": "10AM-2PM",
         "thursday": "10AM-2PM",
-        "saturday": "null",
-        "sunday": "null",
+        "saturday": null,
+        "sunday": null,
         "type": "Food Vehicle"
       }
     },
@@ -718,13 +324,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33385981957497,
-          47.616144776260455
+          -122.33385981999999,
+          47.616144776000056
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Stewart St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -735,7 +340,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 133867,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -749,13 +353,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33247280867317,
-          47.60085479601207
+          -122.33247280899997,
+          47.60085479600008
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Washington St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": null,
@@ -766,7 +369,6 @@
         "neighborhood": "SODO/ID",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 144470,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -780,13 +382,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33580886358817,
-          47.62052049332618
+          -122.33580886399994,
+          47.62052049300007
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Boren Ave N",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -797,7 +398,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 651176,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -811,13 +411,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33580610177017,
-          47.620635198255854
+          -122.33580610199999,
+          47.62063519800006
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Boren Ave N",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -828,7 +427,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 651176,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -842,44 +440,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33715286531248,
-          47.62002082819873
+          -122.33792186,
+          47.619741247000036
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Terry Ave",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": "10AM-2PM",
-        "friday": "10AM-2PM",
-        "site_id": "N2-09-62/64-AB",
-        "site": "",
-        "address": "200 Terry Ave",
-        "neighborhood": "South Lake Union",
-        "everyday": null,
-        "marker-size": "small",
-        "master_address_id": 129172,
-        "monday": "10AM-2PM",
-        "notes": null,
-        "wednesday": "10AM-2PM",
-        "thursday": "10AM-2PM",
-        "saturday": null,
-        "sunday": null,
-        "type": "Food Vehicle"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33792186030558,
-          47.61974124696104
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "John St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM -2PM",
@@ -890,7 +456,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 129352,
         "monday": "10AM -2PM",
         "notes": null,
         "wednesday": "10AM -2PM",
@@ -904,44 +469,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3381072231698,
-          47.6208347047579
+          -122.33015909,
+          47.620782646000066
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Thomas St",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": null,
-        "friday": null,
-        "site_id": "??",
-        "site": "A",
-        "address": "200 Westlake Ave N on Thomas St",
-        "neighborhood": "South Lake Union",
-        "everyday": null,
-        "marker-size": "small",
-        "master_address_id": 129352,
-        "monday": null,
-        "notes": "in bus zones",
-        "wednesday": null,
-        "thursday": null,
-        "saturday": null,
-        "sunday": null,
-        "type": "Food Vehicle"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33015909046964,
-          47.620782645702604
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "Thomas St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -952,7 +485,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 129816,
         "monday": null,
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -966,13 +498,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33561265220209,
-          47.616550794983254
+          -122.33561265199995,
+          47.61655079500008
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Virginia St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -983,7 +514,6 @@
         "neighborhood": "Denny Triangle",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 133864,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -997,16 +527,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33553525025155,
-          47.61661173394441
+          -122.33553524999996,
+          47.61661173400006
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Virginia St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
-        "tuesday": "Not Eligible",
+        "tuesday": "<Null>",
         "friday": "10AM-2PM",
         "site_id": "TRK_2000_9TH_VIRG-B",
         "site": "B",
@@ -1014,11 +543,10 @@
         "neighborhood": "Denny Triangle",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 133864,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
-        "thursday": "Not Eligible",
+        "thursday": "<Null>",
         "saturday": null,
         "sunday": null,
         "type": "Food Vehicle"
@@ -1028,13 +556,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3375984631985,
-          47.61626266658885
+          -122.33759846299995,
+          47.61626266700006
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "8th Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": null,
@@ -1045,7 +572,6 @@
         "neighborhood": "Denny Triangle",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 603703,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -1059,13 +585,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33590819101016,
-          47.620304245944226
+          -122.33590819099999,
+          47.620304246000046
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Boren Ave N",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -1076,7 +601,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 129201,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -1090,13 +614,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33590122755959,
-          47.620463215505026
+          -122.33590122799995,
+          47.620463216000076
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Boren Ave N",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -1107,7 +630,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 129201,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -1121,13 +643,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33762827662366,
-          47.61973840780132
+          -122.33762827699996,
+          47.619738408000046
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "John St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -1138,7 +659,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 129193,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -1152,44 +672,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33803060902534,
-          47.615851590978195
+          -122.33907598599995,
+          47.61550359800003
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Westlake Ave",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": "10AM-2PM",
-        "friday": "10AM-2PM",
-        "site_id": 0,
-        "site": "A",
-        "address": "2045 Westlake Ave",
-        "neighborhood": "South Lake Union",
-        "everyday": null,
-        "marker-size": "small",
-        "master_address_id": 133903,
-        "monday": "10AM-2PM",
-        "notes": null,
-        "wednesday": "10AM-2PM",
-        "thursday": "10AM-2PM",
-        "saturday": null,
-        "sunday": null,
-        "type": "Food Vehicle"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33907598636762,
-          47.61550359831244
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "Lenora St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -1200,7 +688,6 @@
         "neighborhood": "Downtown",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 675818,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -1214,106 +701,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33987088093636,
-          47.615379143832456
+          -122.33109038799995,
+          47.60176041400007
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "6th Ave",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": null,
-        "friday": null,
-        "site_id": 0,
-        "site": "A",
-        "address": "2100 6th Ave",
-        "neighborhood": "Downtown",
-        "everyday": null,
-        "marker-size": "small",
-        "master_address_id": 134516,
-        "monday": null,
-        "notes": null,
-        "wednesday": null,
-        "thursday": null,
-        "saturday": null,
-        "sunday": null,
-        "type": "Food Vehicle"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33896625648754,
-          47.61707084234553
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "8th Ave",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": null,
-        "friday": null,
-        "site_id": 0,
-        "site": "A",
-        "address": "2101 8th Ave",
-        "neighborhood": "Denny Triangle",
-        "everyday": null,
-        "marker-size": "small",
-        "master_address_id": 133842,
-        "monday": null,
-        "notes": null,
-        "wednesday": null,
-        "thursday": null,
-        "saturday": null,
-        "sunday": null,
-        "type": "Food Vehicle"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33958914312444,
-          47.616240115189214
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "7th Ave",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": null,
-        "friday": null,
-        "site_id": 0,
-        "site": "A",
-        "address": "2121 7th Ave",
-        "neighborhood": "Downtown",
-        "everyday": null,
-        "marker-size": "small",
-        "master_address_id": 134503,
-        "monday": null,
-        "notes": null,
-        "wednesday": null,
-        "thursday": null,
-        "saturday": null,
-        "sunday": null,
-        "type": "Food Vehicle"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33109038791105,
-          47.60176041421181
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "Yesler Way",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -1324,7 +717,6 @@
         "neighborhood": "Downtown",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 144455,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -1338,44 +730,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.34125305438494,
-          47.61624251278181
+          -122.33739224199996,
+          47.617423716000076
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "6th Ave",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": null,
-        "friday": null,
-        "site_id": 0,
-        "site": "A",
-        "address": "2200 6th Ave",
-        "neighborhood": "Downtown",
-        "everyday": null,
-        "marker-size": "small",
-        "master_address_id": 133860,
-        "monday": null,
-        "notes": null,
-        "wednesday": null,
-        "thursday": null,
-        "saturday": null,
-        "sunday": null,
-        "type": "Food Vehicle"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33739224235808,
-          47.617423715632015
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "9th Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "6AM-10AM",
@@ -1386,7 +746,6 @@
         "neighborhood": "Denny Triangle",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 129265,
         "monday": "6AM-10AM",
         "notes": null,
         "wednesday": "6AM-10AM",
@@ -1400,13 +759,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33731126560241,
-          47.617372569388635
+          -122.33731126599997,
+          47.617372569000054
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "9th Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -1417,7 +775,6 @@
         "neighborhood": "Denny Triangle",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 129265,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -1431,13 +788,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33882587771205,
-          47.6182836815467
+          -122.33882587799997,
+          47.61828368100004
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "9th Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -1448,7 +804,6 @@
         "neighborhood": "Denny Triangle",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 129268,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -1462,13 +817,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33891953041194,
-          47.61833696547865
+          -122.33891952999994,
+          47.618336965000026
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "9th Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -1479,9 +833,8 @@
         "neighborhood": "Denny Triangle",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 129268,
         "monday": "10AM-2PM",
-        "notes": null,
+        "notes": "Truck needs to be less than 20' ",
         "wednesday": "10AM-2PM",
         "thursday": "10AM-2PM",
         "saturday": null,
@@ -1493,13 +846,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33034424379179,
-          47.62020109100757
+          -122.33034424399995,
+          47.62020109100007
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Yale Ave N",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -1510,7 +862,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 129843,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -1524,13 +875,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33723419190437,
-          47.62069879381431
+          -122.33723419199998,
+          47.62069879400008
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Terry Ave N",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -1541,7 +891,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 129331,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -1555,13 +904,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33723592309934,
-          47.62064167877054
+          -122.33723592299998,
+          47.62064167900007
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Terry Ave N",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -1572,7 +920,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 129331,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -1586,13 +933,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.34162592859371,
-          47.617593985174324
+          -122.34162592899997,
+          47.61759398500004
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "7th Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -1603,7 +949,6 @@
         "neighborhood": "Downtown",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 134467,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -1617,75 +962,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.338824874968,
-          47.62083418584905
+          -122.34030080999997,
+          47.62083563900006
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Thomas St",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": "10AM-2PM",
-        "friday": null,
-        "site_id": 0,
-        "site": "A",
-        "address": "233 Westlake Ave N on Thomas St",
-        "neighborhood": "South Lake Union",
-        "everyday": null,
-        "marker-size": "small",
-        "master_address_id": 129169,
-        "monday": null,
-        "notes": null,
-        "wednesday": null,
-        "thursday": null,
-        "saturday": null,
-        "sunday": null,
-        "type": "Food Vehicle"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33889879114628,
-          47.62083273973923
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "Thomas St",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": null,
-        "friday": "10AM-2PM",
-        "site_id": 0,
-        "site": "A",
-        "address": "233 Westlake Ave N on Thomas St",
-        "neighborhood": "South Lake Union",
-        "everyday": null,
-        "marker-size": "small",
-        "master_address_id": 129169,
-        "monday": "10AM-2PM",
-        "notes": null,
-        "wednesday": "10AM-2PM",
-        "thursday": "10AM-2PM",
-        "saturday": null,
-        "sunday": null,
-        "type": "Food Vehicle"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.34030080993438,
-          47.62083563915348
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "Thomas St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -1696,7 +978,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 129326,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -1710,13 +991,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.34057113894687,
-          47.62084270782475
+          -122.34057113899996,
+          47.620842708000055
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Thomas St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -1727,7 +1007,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 129326,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -1741,13 +1020,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33581531082791,
-          47.62123022299647
+          -122.33581531099998,
+          47.621230223000055
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Boren Ave N",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -1758,7 +1036,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 668255,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -1772,13 +1049,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33581316774348,
-          47.62116597003353
+          -122.33581316799996,
+          47.62116597000005
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Boren Ave N",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -1789,7 +1065,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 668255,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -1803,44 +1078,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33709463241132,
-          47.62113803259416
+          -122.33839281699994,
+          47.61082286000004
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Terry Ave N",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": null,
-        "friday": null,
-        "site_id": 0,
-        "site": "A",
-        "address": "300 Terry Ave N",
-        "neighborhood": "South Lake Union",
-        "everyday": null,
-        "marker-size": "small",
-        "master_address_id": 129142,
-        "monday": null,
-        "notes": null,
-        "wednesday": null,
-        "thursday": null,
-        "saturday": null,
-        "sunday": null,
-        "type": "Food Vehicle"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33839281727467,
-          47.610822859987024
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "Pine St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -1851,9 +1094,8 @@
         "neighborhood": "Downtown",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 137944,
         "monday": "10AM-2PM",
-        "notes": null,
+        "notes": "Managed by DSA",
         "wednesday": "10AM-2PM",
         "thursday": "10AM-2PM",
         "saturday": "10AM-2PM",
@@ -1865,13 +1107,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3382468006493,
-          47.610878820301366
+          -122.33824680099997,
+          47.61087882000004
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Pine St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -1882,9 +1123,8 @@
         "neighborhood": "Downtown",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 137944,
         "monday": "10AM-2PM",
-        "notes": null,
+        "notes": "Managed by DSA",
         "wednesday": "10AM-2PM",
         "thursday": "10AM-2PM",
         "saturday": "10AM-2PM",
@@ -1896,13 +1136,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33762429352629,
-          47.62091832282238
+          -122.33762429399997,
+          47.62091832300007
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Thomas St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -1913,7 +1152,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 616716,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -1927,13 +1165,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33750461984232,
-          47.62092192100988
+          -122.33750461999995,
+          47.62092192100005
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Thomas St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -1944,7 +1181,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 616716,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -1958,13 +1194,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.34201383137321,
-          47.62201753088442
+          -122.34201383099997,
+          47.62201753100004
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Harrison St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": null,
@@ -1975,7 +1210,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 129124,
         "monday": null,
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -1989,13 +1223,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3342032113091,
-          47.62129448135528
+          -122.33420321099999,
+          47.621294481000064
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Fairview Ave N",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -2006,7 +1239,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 129675,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -2020,13 +1252,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33808267977184,
-          47.621994094551894
+          -122.33808267999996,
+          47.62199409500005
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Harrison St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -2037,7 +1268,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 610822,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -2051,13 +1281,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3379735587327,
-          47.62198817161686
+          -122.33797355899998,
+          47.621988172000044
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Harrison St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -2068,7 +1297,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 610822,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -2082,13 +1310,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33591046629493,
-          47.6211107066938
+          -122.33591046599997,
+          47.62111070700007
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Boren Ave N",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -2099,7 +1326,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 629309,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -2113,13 +1339,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33591049687192,
-          47.621173532432636
+          -122.33591049699999,
+          47.62117353200006
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Boren Ave N",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -2130,7 +1355,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 629309,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -2144,13 +1368,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33618914461329,
-          47.62091360048231
+          -122.33618914499999,
+          47.62091360000005
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Thomas St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -2161,7 +1384,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 629309,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -2175,44 +1397,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.32366601857188,
-          47.604474792078065
+          -122.33556049299995,
+          47.622078206000026
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "9th Ave",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": null,
-        "friday": null,
-        "site_id": "TRK_400_9TH-AB",
-        "site": "A",
-        "address": "400 9th Ave",
-        "neighborhood": "First Hill",
-        "everyday": null,
-        "marker-size": "small",
-        "master_address_id": 0,
-        "monday": null,
-        "notes": null,
-        "wednesday": null,
-        "thursday": null,
-        "saturday": null,
-        "sunday": null,
-        "type": "Food Vehicle"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33556049332208,
-          47.62207820634421
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "Harrison St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -2223,7 +1413,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 129070,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -2237,13 +1426,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33539286508864,
-          47.62207584472452
+          -122.33539286499996,
+          47.62207584500004
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Harrison St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -2254,7 +1442,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 129070,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -2268,13 +1455,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.34158137617953,
-          47.62211868303086
+          -122.34158137599997,
+          47.62211868300005
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Harrison St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -2285,7 +1471,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 129053,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -2299,13 +1484,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.34143205454563,
-          47.62212155636479
+          -122.34143205499998,
+          47.62212155600008
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Harrison St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -2316,7 +1500,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 129053,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -2330,13 +1513,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.34112931036935,
-          47.62224284702984
+          -122.34112930999999,
+          47.62224284700005
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "8th Ave N",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -2347,7 +1529,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 129056,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -2361,13 +1542,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.34112521935333,
-          47.62235940546225
+          -122.34112521899999,
+          47.622359405000054
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "8th Ave N",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -2378,7 +1558,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 129056,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -2392,13 +1571,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.36360857987205,
-          47.622764505977216
+          -122.36360857999995,
+          47.62276450600007
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Elliott Ave W",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -2407,15 +1585,14 @@
         "site": "A",
         "address": "401 Elliott Ave W site A",
         "neighborhood": "Lower Queen Anne",
-        "everyday": "null",
+        "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 128477,
         "monday": "10AM-2PM",
-        "notes": "null",
+        "notes": null,
         "wednesday": "10AM-2PM",
         "thursday": "10AM-2PM",
-        "saturday": "null",
-        "sunday": "null",
+        "saturday": null,
+        "sunday": null,
         "type": "Food Vehicle"
       }
     },
@@ -2423,13 +1600,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.36376958010203,
-          47.62289936381467
+          -122.36376957999994,
+          47.622899364000034
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Elliott Ave W",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -2440,7 +1616,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 128477,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -2454,13 +1629,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33724849292355,
-          47.611309942699734
+          -122.33724849299995,
+          47.61130994300004
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Pine St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "2PM-8PM",
@@ -2471,7 +1645,6 @@
         "neighborhood": "Downtown",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 134594,
         "monday": "2PM-8PM",
         "notes": null,
         "wednesday": "3PM-8PM",
@@ -2485,13 +1658,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33747976437957,
-          47.622089863356564
+          -122.33747976399997,
+          47.62208986300004
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Harrison St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -2502,7 +1674,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 600053,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -2516,13 +1687,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33763159242403,
-          47.622088085396854
+          -122.33763159199998,
+          47.62208808500003
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Harrison St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -2533,7 +1703,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 600053,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -2547,44 +1716,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33420459986235,
-          47.60842661639526
+          -122.31288454099996,
+          47.65687335300004
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "University St",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": "10AM-2PM",
-        "friday": "10AM-2PM",
-        "site_id": 0,
-        "site": "A",
-        "address": "411 University St",
-        "neighborhood": "Downtown",
-        "everyday": null,
-        "marker-size": "small",
-        "master_address_id": 138381,
-        "monday": "10AM-2PM",
-        "notes": null,
-        "wednesday": "10AM-2PM",
-        "thursday": "10AM-2PM",
-        "saturday": null,
-        "sunday": null,
-        "type": "Food Vehicle"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.31288454118857,
-          47.65687335312282
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "NE 41st St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -2595,7 +1732,6 @@
         "neighborhood": "University District",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 93388,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -2609,13 +1745,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33577502120022,
-          47.622935740492096
+          -122.33577502099996,
+          47.62293574000006
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Boren Ave N",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -2626,7 +1761,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 129298,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -2640,13 +1774,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33577451128463,
-          47.62300365369572
+          -122.33577451099995,
+          47.62300365400006
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Boren Ave N",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -2657,7 +1790,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 129298,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -2671,13 +1803,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33554642522734,
-          47.62315013706922
+          -122.33554642499996,
+          47.62315013700004
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Republican St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -2688,7 +1819,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 129298,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -2702,13 +1832,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33539976558666,
-          47.62314947067159
+          -122.33539976599997,
+          47.62314947100003
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Republican St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -2719,7 +1848,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 129298,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -2733,13 +1861,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3374837411817,
-          47.62316307381684
+          -122.33748374099997,
+          47.62316307400005
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Republican St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -2750,7 +1877,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 129297,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -2764,44 +1890,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33810394963751,
-          47.62317738472859
+          -122.33879663399995,
+          47.62316911500005
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Republican St",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": "10AM-2PM",
-        "friday": "10AM-2PM",
-        "site_id": 0,
-        "site": "A",
-        "address": "428 Westlake Ave N on Republican St",
-        "neighborhood": "South Lake Union",
-        "everyday": null,
-        "marker-size": "small",
-        "master_address_id": 602660,
-        "monday": "10AM-2PM",
-        "notes": null,
-        "wednesday": "10AM-2PM",
-        "thursday": "10AM-2PM",
-        "saturday": null,
-        "sunday": null,
-        "type": "Food Vehicle"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33879663355776,
-          47.62316911546236
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "Republican St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -2812,7 +1906,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 129028,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -2826,44 +1919,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.31308417179707,
-          47.66027074989523
+          -122.38218180099994,
+          47.66502132100004
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "University Way NE",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": "11AM-3PM",
-        "friday": "11AM-3PM",
-        "site_id": "NE-UW-43-10-AB",
-        "site": "A",
-        "address": "4300 University Way NE",
-        "neighborhood": "University District",
-        "everyday": null,
-        "marker-size": "small",
-        "master_address_id": 93023,
-        "monday": "11AM-3PM",
-        "notes": null,
-        "wednesday": "11AM-3PM",
-        "thursday": "11AM-3PM",
-        "saturday": null,
-        "sunday": null,
-        "type": "Food Vehicle"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.38218180144895,
-          47.66502132147684
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "20th Ave NW",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": null,
@@ -2874,7 +1935,6 @@
         "neighborhood": "Ballard",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 80672,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -2888,13 +1948,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33576976556219,
-          47.62341930145965
+          -122.33576976599994,
+          47.62341930100007
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Boren Ave N",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -2905,7 +1964,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 600213,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -2919,13 +1977,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33577603563549,
-          47.62352542146107
+          -122.33577603599997,
+          47.62352542100007
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Boren Ave N",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -2936,7 +1993,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 600213,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -2950,44 +2006,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33566850459778,
-          47.62322438779529
+          -122.33654272899997,
+          47.61323941400008
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Republican St",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": null,
-        "friday": null,
-        "site_id": 0,
-        "site": "A",
-        "address": "500 Boren Ave N on Republican St",
-        "neighborhood": "South Lake Union",
-        "everyday": null,
-        "marker-size": "small",
-        "master_address_id": 600213,
-        "monday": null,
-        "notes": null,
-        "wednesday": null,
-        "thursday": null,
-        "saturday": null,
-        "sunday": null,
-        "type": "Food Vehicle"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.3365427292635,
-          47.613239413867916
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "6th Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -2998,7 +2022,6 @@
         "neighborhood": "Downtown",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 134159,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -3012,13 +2035,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33663144828267,
-          47.61330221982166
+          -122.33663144799999,
+          47.61330222000004
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "6th Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -3029,7 +2051,6 @@
         "neighborhood": "Downtown",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 134159,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -3043,44 +2064,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33709812178085,
-          47.62357329507154
+          -122.37349658599999,
+          47.665548794000074
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Terry Ave N",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": "10AM-2PM",
-        "friday": "10AM-2PM",
-        "site_id": 0,
-        "site": "A",
-        "address": "500 Terry Ave N",
-        "neighborhood": "South Lake Union",
-        "everyday": null,
-        "marker-size": "small",
-        "master_address_id": 129000,
-        "monday": "10AM-2PM",
-        "notes": null,
-        "wednesday": "10AM-2PM",
-        "thursday": "10AM-2PM",
-        "saturday": null,
-        "sunday": null,
-        "type": "Food Vehicle"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.37349658619848,
-          47.66554879454128
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "14th Ave NW",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": null,
@@ -3091,7 +2080,6 @@
         "neighborhood": "Ballard",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 81167,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -3105,13 +2093,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33048914615716,
-          47.62346910321662
+          -122.33048914599999,
+          47.62346910300005
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Yale Ave N",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -3122,7 +2109,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 129532,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -3136,13 +2122,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3276025166428,
-          47.597783488916946
+          -122.32760251699995,
+          47.59778348900005
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "5th Ave S",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -3153,7 +2138,6 @@
         "neighborhood": "SODO/ID",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 144316,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -3167,75 +2151,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33589649172967,
-          47.623450364043094
+          -122.38700772499999,
+          47.55577728800006
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Boren Ave N",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": "Not Eligible",
-        "friday": "Not Eligible",
-        "site_id": "A",
-        "site": "A",
-        "address": "511 Boren Ave N",
-        "neighborhood": "South Lake Union",
-        "everyday": null,
-        "marker-size": "small",
-        "master_address_id": 128991,
-        "monday": "Not Eligible",
-        "notes": null,
-        "wednesday": "Not Eligible",
-        "thursday": "Not Eligible",
-        "saturday": null,
-        "sunday": null,
-        "type": "Food Vehicle"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33589380995136,
-          47.62357691124549
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "Boren Ave N",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": "Not Eligible",
-        "friday": "Not Eligible",
-        "site_id": "B",
-        "site": "B",
-        "address": "511 Boren Ave N",
-        "neighborhood": "South Lake Union",
-        "everyday": null,
-        "marker-size": "small",
-        "master_address_id": 128991,
-        "monday": "Not Eligible",
-        "notes": null,
-        "wednesday": "Not Eligible",
-        "thursday": "Not Eligible",
-        "saturday": null,
-        "sunday": null,
-        "type": "Food Vehicle"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.38700772452682,
-          47.5557772883912
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "California Ave SW",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": null,
@@ -3246,7 +2167,6 @@
         "neighborhood": "Delridge/West Seattle",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 168977,
         "monday": "4PM-8PM",
         "notes": null,
         "wednesday": null,
@@ -3260,13 +2180,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33746367460884,
-          47.62449191387077
+          -122.33746367499998,
+          47.62449191400003
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Mercer St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -3277,7 +2196,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 602301,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -3291,13 +2209,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33589738565581,
-          47.62410388518623
+          -122.33589738599994,
+          47.62410388500007
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Boren Ave N",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -3306,15 +2223,14 @@
         "site": "B",
         "address": "551 Boren Ave N site B",
         "neighborhood": "South Lake Union",
-        "everyday": "null",
+        "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 636690,
         "monday": "10AM-2PM",
-        "notes": "null",
+        "notes": null,
         "wednesday": "10AM-2PM",
         "thursday": "10AM-2PM",
-        "saturday": "null",
-        "sunday": "null",
+        "saturday": null,
+        "sunday": null,
         "type": "Food Vehicle"
       }
     },
@@ -3322,13 +2238,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33589897835515,
-          47.62433523488323
+          -122.33589897799999,
+          47.624335235000046
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Boren Ave N",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -3339,7 +2254,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 636690,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -3353,13 +2267,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33637267286053,
-          47.61327012481644
+          -122.33637267299997,
+          47.61327012500004
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "6th Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -3370,7 +2283,6 @@
         "neighborhood": "Downtown",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 134116,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -3384,13 +2296,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33647511913142,
-          47.613337210643806
+          -122.33647511899994,
+          47.613337211000044
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "6th Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "3PM-7PM",
@@ -3401,7 +2312,6 @@
         "neighborhood": "Downtown",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 134116,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -3415,13 +2325,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33513312739188,
-          47.611959014896684
+          -122.33513312699995,
+          47.61195901500008
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "6th Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -3430,11 +2339,10 @@
         "site": "A",
         "address": "601 Pine St",
         "neighborhood": "Downtown",
-        "everyday": "null",
+        "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 134306,
         "monday": "10AM-2PM",
-        "notes": "null",
+        "notes": null,
         "wednesday": "10AM-2PM",
         "thursday": "10AM-2PM",
         "saturday": "10AM-2PM;4PM-8PM",
@@ -3446,13 +2354,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.37650718815615,
-          47.54537275105167
+          -122.37650718799995,
+          47.54537275100006
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "35th Ave SW",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "4PM-8PM",
@@ -3463,7 +2370,6 @@
         "neighborhood": "Delridge/West Seattle",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 181240,
         "monday": "4PM-8PM",
         "notes": null,
         "wednesday": "4PM-8PM",
@@ -3477,13 +2383,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.32614983814449,
-          47.59663084403826
+          -122.32614983799999,
+          47.59663084400006
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "S Lane St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": null,
@@ -3494,7 +2399,6 @@
         "neighborhood": "SODO/ID",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 144522,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -3508,75 +2412,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33303104124951,
-          47.61139991627317
+          -122.33515893999999,
+          47.615148893000026
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "th Ave",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": null,
-        "friday": null,
-        "site_id": "",
-        "site": "A",
-        "address": "701  Pike St on 7th Ave",
-        "neighborhood": "Downtown",
-        "everyday": null,
-        "marker-size": "small",
-        "master_address_id": 134913,
-        "monday": null,
-        "notes": null,
-        "wednesday": null,
-        "thursday": null,
-        "saturday": null,
-        "sunday": null,
-        "type": "Food Vehicle"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.34085053222623,
-          47.622061948400244
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "Harrison St",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": "10PM-2AM",
-        "friday": "10PM-2AM",
-        "site_id": 0,
-        "site": "A",
-        "address": "800 Harrison St",
-        "neighborhood": "South Lake Union",
-        "everyday": null,
-        "marker-size": "small",
-        "master_address_id": 129066,
-        "monday": "10PM-2AM",
-        "notes": null,
-        "wednesday": "10PM-2AM",
-        "thursday": "10PM-2AM",
-        "saturday": null,
-        "sunday": null,
-        "type": "Food Vehicle"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33515893973328,
-          47.615148893107005
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "Stewart St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -3587,7 +2428,6 @@
         "neighborhood": "Denny Triangle",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 133948,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -3601,13 +2441,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33505655821358,
-          47.61522387678053
+          -122.33505655799996,
+          47.61522387700006
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Stewart St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -3618,7 +2457,6 @@
         "neighborhood": "Denny Triangle",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 133948,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -3632,13 +2470,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3341417309561,
-          47.603958742202224
+          -122.33414173099999,
+          47.60395874200003
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "2nd Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -3649,7 +2486,6 @@
         "neighborhood": "Downtown",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 138699,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -3663,13 +2499,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33420580585323,
-          47.60403440486397
+          -122.33420580599994,
+          47.60403440500005
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "2nd Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -3680,7 +2515,6 @@
         "neighborhood": "Downtown",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 138699,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -3694,75 +2528,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33656729424519,
-          47.616234655405094
+          -122.33465703599995,
+          47.61553293000003
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Virginia St",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": null,
-        "friday": null,
-        "site_id": 0,
-        "site": "A",
-        "address": "810 Virginia St",
-        "neighborhood": "Denny Triangle",
-        "everyday": null,
-        "marker-size": "small",
-        "master_address_id": 134498,
-        "monday": "Not Eligible",
-        "notes": null,
-        "wednesday": null,
-        "thursday": null,
-        "saturday": null,
-        "sunday": null,
-        "type": "Food Vehicle"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33656729424519,
-          47.616234655405094
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "8th Ave",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": null,
-        "friday": null,
-        "site_id": 0,
-        "site": "B",
-        "address": "810 Virginia St on 8th Ave",
-        "neighborhood": "Denny Triangle",
-        "everyday": null,
-        "marker-size": "small",
-        "master_address_id": 134498,
-        "monday": "Not Eligible",
-        "notes": null,
-        "wednesday": null,
-        "thursday": null,
-        "saturday": null,
-        "sunday": null,
-        "type": "Food Vehicle"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33465703619322,
-          47.615532929700976
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "Stewart St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -3773,7 +2544,6 @@
         "neighborhood": "Denny Triangle",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 629389,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -3787,13 +2557,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33087397055726,
-          47.62645750810759
+          -122.33087397099996,
+          47.626457508000044
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Yale Ave N",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -3804,7 +2573,6 @@
         "neighborhood": "Capitol Hill",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 125692,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -3818,13 +2586,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33996872537637,
-          47.62326878552608
+          -122.33996872499995,
+          47.62326878500005
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Republican St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -3835,7 +2602,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 645398,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -3849,44 +2615,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3393420220167,
-          47.621979939222854
+          -122.33416097499997,
+          47.61575641300004
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Harrison St",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": null,
-        "friday": null,
-        "site_id": 0,
-        "site": "A",
-        "address": "901 Harrison St",
-        "neighborhood": "South Lake Union",
-        "everyday": null,
-        "marker-size": "small",
-        "master_address_id": 129102,
-        "monday": null,
-        "notes": null,
-        "wednesday": null,
-        "thursday": null,
-        "saturday": null,
-        "sunday": null,
-        "type": "Food Vehicle"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33416097464925,
-          47.615756413028066
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "Stewart St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -3897,7 +2631,6 @@
         "neighborhood": "Denny Triangle",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 135040,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -3911,13 +2644,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.32050641244092,
-          47.61402986308775
+          -122.32050641199999,
+          47.61402986300004
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "E Pike St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": null,
@@ -3928,7 +2660,6 @@
         "neighborhood": "Capitol Hill",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 135566,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -3942,44 +2673,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.31977008532112,
-          47.61417624483789
+          -122.33756004899999,
+          47.62325581500005
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "E Pike St",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": null,
-        "friday": "10PM-2AM",
-        "site_id": "E10-15-07/09",
-        "site": "A",
-        "address": "918 E Pike St",
-        "neighborhood": "Capitol Hill",
-        "everyday": null,
-        "marker-size": "small",
-        "master_address_id": 135488,
-        "monday": null,
-        "notes": null,
-        "wednesday": null,
-        "thursday": null,
-        "saturday": "10PM-2AM",
-        "sunday": null,
-        "type": "Food Vehicle"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33756004865728,
-          47.62325581550351
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "Republican St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -3990,7 +2689,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 128997,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -4004,13 +2702,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33746992849439,
-          47.61965699847178
+          -122.33746992799996,
+          47.61965699800004
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "John St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -4021,7 +2718,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 129218,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -4035,13 +2731,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33760297509718,
-          47.619656252933794
+          -122.33760297499998,
+          47.61965625300007
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "John St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -4052,7 +2747,6 @@
         "neighborhood": "South Lake Union",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 129218,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -4066,13 +2760,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33695130206092,
-          47.61319434344426
+          -122.33695130199999,
+          47.61319434300003
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Stewart St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "3PM-7PM",
@@ -4083,7 +2776,6 @@
         "neighborhood": "Denny Triangle",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 134555,
         "monday": "3PM-7PM",
         "notes": null,
         "wednesday": "3PM-7PM",
@@ -4097,13 +2789,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3241005817764,
-          47.61003399087605
+          -122.32410058199997,
+          47.61003399100008
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Minor Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": null,
@@ -4114,7 +2805,6 @@
         "neighborhood": "Capitol Hill",
         "everyday": "Day",
         "marker-size": "medium",
-        "master_address_id": 643640,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -4128,13 +2818,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33706057058885,
-          47.62425483369367
+          -122.337060571,
+          47.624254834000055
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Terry Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": null,
@@ -4145,7 +2834,6 @@
         "neighborhood": "South Lake Union",
         "everyday": "Day",
         "marker-size": "medium",
-        "master_address_id": 128972,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -4159,13 +2847,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33306397532215,
-          47.616084994726805
+          -122.33306397499996,
+          47.61608499500005
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Terry Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": null,
@@ -4176,7 +2863,6 @@
         "neighborhood": "South Lake Union",
         "everyday": "Day",
         "marker-size": "medium",
-        "master_address_id": 135027,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -4190,13 +2876,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.31862830964872,
-          47.6141807333542
+          -122.31862830999995,
+          47.61418073300007
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "E Pike St",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": null,
@@ -4207,7 +2892,6 @@
         "neighborhood": "Capitol Hill",
         "everyday": "Night",
         "marker-size": "medium",
-        "master_address_id": 135477,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -4221,13 +2905,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3178749781477,
-          47.614006285561686
+          -122.31787497799996,
+          47.61400628600006
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "E Pike St",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": null,
@@ -4238,7 +2921,6 @@
         "neighborhood": "Capitol Hill",
         "everyday": "Night",
         "marker-size": "medium",
-        "master_address_id": 135595,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -4252,13 +2934,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33275166595661,
-          47.60114648392317
+          -122.33275166599998,
+          47.601146484000026
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Occidental Ave S",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": null,
@@ -4269,7 +2950,6 @@
         "neighborhood": "SODO/ID",
         "everyday": "Night",
         "marker-size": "medium",
-        "master_address_id": 144462,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -4283,13 +2963,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33863247850604,
-          47.60878965022221
+          -122.33863247899995,
+          47.60878965000006
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "2nd Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": null,
@@ -4300,7 +2979,6 @@
         "neighborhood": "Downtown",
         "everyday": "Day",
         "marker-size": "medium",
-        "master_address_id": 138281,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -4314,13 +2992,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33811504277497,
-          47.6086300556326
+          -122.33811504299996,
+          47.60863005600004
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "2nd Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": null,
@@ -4331,7 +3008,6 @@
         "neighborhood": "Downtown",
         "everyday": "Night",
         "marker-size": "medium",
-        "master_address_id": 138319,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -4345,44 +3021,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3346647074103,
-          47.610544977568736
+          -122.33945492199996,
+          47.60839832200003
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Pike St",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": null,
-        "friday": null,
-        "site_id": 0,
-        "site": "A",
-        "address": "1420 5th Ave on Pike St",
-        "neighborhood": "Downtown",
-        "everyday": "Day",
-        "marker-size": "small",
-        "master_address_id": 137931,
-        "monday": null,
-        "notes": null,
-        "wednesday": null,
-        "thursday": null,
-        "saturday": null,
-        "sunday": null,
-        "type": "Sidewalk"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33945492200701,
-          47.60839832192505
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "1st Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": null,
@@ -4393,7 +3037,6 @@
         "neighborhood": "Downtown",
         "everyday": "Night",
         "marker-size": "medium",
-        "master_address_id": 138355,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -4407,13 +3050,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33280497237155,
-          47.612535956069564
+          -122.33280497199996,
+          47.612535956000045
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "8th Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": null,
@@ -4424,7 +3066,6 @@
         "neighborhood": "Downtown",
         "everyday": "Day",
         "marker-size": "medium",
-        "master_address_id": 600089,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -4438,13 +3079,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.34244843864451,
-          47.60808728510017
+          -122.34244843899995,
+          47.60808728500007
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Pike Hill Climb",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": null,
@@ -4455,7 +3095,6 @@
         "neighborhood": "Downtown",
         "everyday": "Day",
         "marker-size": "medium",
-        "master_address_id": 602211,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -4469,13 +3108,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3367093349678,
-          47.61285822093021
+          -122.33670933499997,
+          47.61285822100007
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "5th Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": null,
@@ -4486,7 +3124,6 @@
         "neighborhood": "Downtown",
         "everyday": "Day",
         "marker-size": "medium",
-        "master_address_id": 134191,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -4500,13 +3137,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.32366416327051,
-          47.619681799075806
+          -122.32366416299999,
+          47.619681799000034
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Olive Way",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": null,
@@ -4517,7 +3153,6 @@
         "neighborhood": "Capitol Hill",
         "everyday": "Night",
         "marker-size": "medium",
-        "master_address_id": 129865,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -4531,13 +3166,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.34167272841364,
-          47.61143793691133
+          -122.34167272799999,
+          47.61143793700006
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "2nd Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": null,
@@ -4548,7 +3182,6 @@
         "neighborhood": "Downtown",
         "everyday": "Day",
         "marker-size": "medium",
-        "master_address_id": 134393,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -4562,13 +3195,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33751284054512,
-          47.6161597364827
+          -122.33751284099998,
+          47.61615973600004
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Westlake Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": null,
@@ -4579,7 +3211,6 @@
         "neighborhood": "South Lake Union",
         "everyday": "Day",
         "marker-size": "medium",
-        "master_address_id": 133900,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -4593,13 +3224,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33433150049831,
-          47.60072052453262
+          -122.33433149999996,
+          47.60072052400005
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "1st Ave S",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": null,
@@ -4610,7 +3240,6 @@
         "neighborhood": "Downtown",
         "everyday": "Night",
         "marker-size": "medium",
-        "master_address_id": 143550,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -4624,13 +3253,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3391574892267,
-          47.61597533229582
+          -122.33915748899994,
+          47.61597533200006
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "1st Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": "10AM-2PM",
@@ -4641,7 +3269,6 @@
         "neighborhood": "SODO/ID",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 439112,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -4655,13 +3282,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.34014010917866,
-          47.61561311145596
+          -122.34014010899995,
+          47.61561311100007
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "6th Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": null,
@@ -4672,7 +3298,6 @@
         "neighborhood": "Downtown",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 133910,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -4686,13 +3311,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33949895461302,
-          47.61051717053107
+          -122.33949895499995,
+          47.61051717000004
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "E Pine St",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": null,
@@ -4703,7 +3327,6 @@
         "neighborhood": "Downtown",
         "everyday": "Day",
         "marker-size": "medium",
-        "master_address_id": 134600,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -4717,13 +3340,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33903169655554,
-          47.617026800746316
+          -122.33903169699994,
+          47.617026801000065
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "8th Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": null,
@@ -4734,7 +3356,6 @@
         "neighborhood": "Denny Triangle",
         "everyday": "Day",
         "marker-size": "medium",
-        "master_address_id": 133842,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -4748,13 +3369,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33827072441437,
-          47.61805890409522
+          -122.33827072399998,
+          47.618058904000065
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Westlake Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": null,
@@ -4765,7 +3385,6 @@
         "neighborhood": "Denny Triangle",
         "everyday": "Day",
         "marker-size": "medium",
-        "master_address_id": 129265,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -4779,13 +3398,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.34530600746626,
-          47.61279002893673
+          -122.34530600699998,
+          47.61279002900005
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "1st Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": null,
@@ -4796,7 +3414,6 @@
         "neighborhood": "Downtown",
         "everyday": "Night",
         "marker-size": "medium",
-        "master_address_id": 133655,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -4810,13 +3427,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33560326148131,
-          47.620910429472815
+          -122.33560326099996,
+          47.62091042900005
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Thomas St",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": null,
@@ -4827,7 +3443,6 @@
         "neighborhood": "South Lake Union",
         "everyday": "Day",
         "marker-size": "medium",
-        "master_address_id": 668255,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -4841,13 +3456,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33552300778052,
-          47.62090854269513
+          -122.33552300799994,
+          47.62090854300004
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Thomas St",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": null,
@@ -4858,7 +3472,6 @@
         "neighborhood": "South Lake Union",
         "everyday": "Day",
         "marker-size": "medium",
-        "master_address_id": 668255,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -4872,13 +3485,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33715301459989,
-          47.60955951935637
+          -122.33715301499996,
+          47.60955951900007
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Pike St",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": null,
@@ -4889,7 +3501,6 @@
         "neighborhood": "Downtown",
         "everyday": "Day",
         "marker-size": "medium",
-        "master_address_id": 138129,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -4903,13 +3514,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.35133723522517,
-          47.653415980563125
+          -122.35133723499996,
+          47.65341598100008
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Evanston Ave N",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": null,
@@ -4920,7 +3530,6 @@
         "neighborhood": "Ballard",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 98606,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -4934,13 +3543,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.34262184772007,
-          47.64891053179565
+          -122.34262184799996,
+          47.64891053200006
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Stoneway Ave N",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": null,
@@ -4951,7 +3559,6 @@
         "neighborhood": "Ballard",
         "everyday": "Day",
         "marker-size": "medium",
-        "master_address_id": 99930,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -4965,13 +3572,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33706938304556,
-          47.61153151496751
+          -122.33706938299997,
+          47.61153151500008
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Westlake Center",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": null,
@@ -4982,7 +3588,6 @@
         "neighborhood": "Downtown",
         "everyday": "Day",
         "marker-size": "medium",
-        "master_address_id": 134258,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -4996,13 +3601,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33613605133769,
-          47.611721976088404
+          -122.33613605099998,
+          47.61172197600007
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Pine St",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": null,
@@ -5013,7 +3617,6 @@
         "neighborhood": "Downtown",
         "everyday": "Day",
         "marker-size": "medium",
-        "master_address_id": 134376,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -5027,13 +3630,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33674158735437,
-          47.611471726239245
+          -122.33674158699995,
+          47.61147172600005
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Pine St",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": null,
@@ -5044,7 +3646,6 @@
         "neighborhood": "Downtown",
         "everyday": "Day",
         "marker-size": "medium",
-        "master_address_id": 134378,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -5058,13 +3659,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.31876866144455,
-          47.62402942042149
+          -122.31876866099998,
+          47.624029420000056
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Federal Ave E",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": null,
@@ -5075,7 +3675,6 @@
         "neighborhood": "Capitol Hill",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 130251,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -5089,13 +3688,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33250377053253,
-          47.61220750747054
+          -122.33250377099995,
+          47.61220750700005
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "8th Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": null,
@@ -5106,7 +3704,6 @@
         "neighborhood": "Downtown",
         "everyday": "Day",
         "marker-size": "medium",
-        "master_address_id": 134927,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -5120,44 +3717,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3330609661906,
-          47.61142727814644
+          -122.32182599799995,
+          47.61397936700007
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "7th Ave",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": null,
-        "friday": null,
-        "site_id": "SDW_701_PIK-AB",
-        "site": "A",
-        "address": "701 Pike St (on 7th)",
-        "neighborhood": "Downtown",
-        "everyday": "Day",
-        "marker-size": "small",
-        "master_address_id": 134913,
-        "monday": null,
-        "notes": null,
-        "wednesday": null,
-        "thursday": null,
-        "saturday": null,
-        "sunday": null,
-        "type": "Sidewalk"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.32182599847101,
-          47.613979367054185
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "E Pike St",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": null,
@@ -5168,7 +3733,6 @@
         "neighborhood": "Capitol Hill",
         "everyday": "Night",
         "marker-size": "medium",
-        "master_address_id": 135561,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -5182,13 +3746,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3318276278427,
-          47.60509069547925
+          -122.33182762799998,
+          47.60509069500006
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "4th Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": null,
@@ -5199,7 +3762,6 @@
         "neighborhood": "Downtown",
         "everyday": "Day",
         "marker-size": "medium",
-        "master_address_id": 139116,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -5213,13 +3775,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.32034134547666,
-          47.613987279289574
+          -122.32034134499997,
+          47.61398727900007
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "E Pike St",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": null,
@@ -5230,7 +3791,6 @@
         "neighborhood": "Capitol Hill",
         "everyday": "Night",
         "marker-size": "medium",
-        "master_address_id": 135564,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -5244,13 +3804,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33166512034899,
-          47.6135828370783
+          -122.33166511999997,
+          47.61358283700008
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Pine St",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": null,
@@ -5261,7 +3820,6 @@
         "neighborhood": "Downtown",
         "everyday": "Night",
         "marker-size": "medium",
-        "master_address_id": 134840,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -5275,13 +3833,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.32063625565866,
-          47.613907770227456
+          -122.32063625599994,
+          47.613907770000026
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Broadway",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": null,
@@ -5292,7 +3849,6 @@
         "neighborhood": "Capitol Hill",
         "everyday": "Night",
         "marker-size": "medium",
-        "master_address_id": 135566,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -5306,13 +3862,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.31977495964662,
-          47.613993165352326
+          -122.31977495999996,
+          47.61399316500007
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "E Pike St",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": null,
@@ -5323,7 +3878,6 @@
         "neighborhood": "Capitol Hill",
         "everyday": "Night",
         "marker-size": "medium",
-        "master_address_id": 135582,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -5337,30 +3891,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3331614960062,
-          47.59308236475937
+          -122.33316149599995,
+          47.59308236500004
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Occidental Ave S",
         "marker-color": "#af4bb1",
         "marker-symbol": "america-football",
-        "tuesday": "null",
-        "friday": "null",
+        "tuesday": null,
+        "friday": null,
         "site_id": "STA_1000_OCCI_OCCI-A",
         "site": "A",
         "address": "1000 Occidental Ave S",
         "neighborhood": "SODO/ID",
         "everyday": "Event Days",
         "marker-size": "medium",
-        "master_address_id": 147540,
-        "monday": "null",
-        "notes": "null",
-        "wednesday": "null",
-        "thursday": "null",
-        "saturday": "null",
-        "sunday": "null",
+        "monday": null,
+        "notes": null,
+        "wednesday": null,
+        "thursday": null,
+        "saturday": null,
+        "sunday": null,
         "type": "Stadium"
       }
     },
@@ -5368,30 +3920,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33358044787934,
-          47.59825172993345
+          -122.33358044799996,
+          47.59825173000007
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "S King St",
         "marker-color": "#af4bb1",
         "marker-symbol": "america-football",
-        "tuesday": "null",
-        "friday": "null",
+        "tuesday": null,
+        "friday": null,
         "site_id": "STA_101_SKIN_SKIN-A",
         "site": "A",
         "address": "101 S King St",
         "neighborhood": "SODO/ID",
         "everyday": "Event Days",
         "marker-size": "medium",
-        "master_address_id": 143740,
-        "monday": "null",
-        "notes": "null",
-        "wednesday": "null",
-        "thursday": "null",
-        "saturday": "null",
-        "sunday": "null",
+        "monday": null,
+        "notes": null,
+        "wednesday": null,
+        "thursday": null,
+        "saturday": null,
+        "sunday": null,
         "type": "Stadium"
       }
     },
@@ -5399,13 +3949,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33335877308889,
-          47.59367895971627
+          -122.33335877299999,
+          47.593678960000034
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Occidental Ave S",
         "marker-color": "#af4bb1",
         "marker-symbol": "america-football",
         "tuesday": null,
@@ -5416,7 +3965,6 @@
         "neighborhood": "SODO/ID",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 147543,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -5430,13 +3978,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33335597080139,
-          47.59358994302153
+          -122.33335597099995,
+          47.59358994300004
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Occidental Ave S",
         "marker-color": "#af4bb1",
         "marker-symbol": "america-football",
         "tuesday": null,
@@ -5447,7 +3994,6 @@
         "neighborhood": "SODO/ID",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 147543,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -5461,13 +4007,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33335890978583,
-          47.59342619536267
+          -122.33335890999996,
+          47.59342619500006
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Occidental Ave S",
         "marker-color": "#af4bb1",
         "marker-symbol": "america-football",
         "tuesday": null,
@@ -5478,7 +4023,6 @@
         "neighborhood": "SODO/ID",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 147547,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -5492,13 +4036,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33335062972776,
-          47.59326891293006
+          -122.33335062999998,
+          47.59326891300003
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Occidental Ave S",
         "marker-color": "#af4bb1",
         "marker-symbol": "america-football",
         "tuesday": null,
@@ -5509,7 +4052,6 @@
         "neighborhood": "SODO/ID",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 147550,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -5523,13 +4065,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3333534338139,
-          47.593350884335905
+          -122.33335343399995,
+          47.593350884000074
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Occidental Ave S",
         "marker-color": "#af4bb1",
         "marker-symbol": "america-football",
         "tuesday": null,
@@ -5540,7 +4081,6 @@
         "neighborhood": "SODO/ID",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 147598,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -5554,30 +4094,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.32923811005071,
-          47.59212151559552
+          -122.32923810999995,
+          47.59212151600008
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "4th Ave S",
         "marker-color": "#af4bb1",
         "marker-symbol": "america-football",
-        "tuesday": "null",
-        "friday": "null",
+        "tuesday": null,
+        "friday": null,
         "site_id": "STA_1201_4TH_4TH-A",
         "site": "A",
         "address": "1201 4th Ave S",
         "neighborhood": "SODO/ID",
         "everyday": "Event Days",
         "marker-size": "medium",
-        "master_address_id": 147687,
-        "monday": "null",
-        "notes": "null",
-        "wednesday": "null",
-        "thursday": "null",
-        "saturday": "null",
-        "sunday": "null",
+        "monday": null,
+        "notes": null,
+        "wednesday": null,
+        "thursday": null,
+        "saturday": null,
+        "sunday": null,
         "type": "Stadium"
       }
     },
@@ -5585,30 +4123,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33422815760338,
-          47.59081103430185
+          -122.33422815799997,
+          47.59081103400007
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "S Atlantic St",
         "marker-color": "#af4bb1",
         "marker-symbol": "america-football",
-        "tuesday": "null",
-        "friday": "null",
+        "tuesday": null,
+        "friday": null,
         "site_id": "STA_1251_1ST_SATL-A",
         "site": "A",
         "address": "1251 1st Ave S",
         "neighborhood": "SODO/ID",
         "everyday": "Event Days",
         "marker-size": "medium",
-        "master_address_id": 147576,
-        "monday": "null",
-        "notes": "null",
-        "wednesday": "null",
-        "thursday": "null",
-        "saturday": "null",
-        "sunday": "null",
+        "monday": null,
+        "notes": null,
+        "wednesday": null,
+        "thursday": null,
+        "saturday": null,
+        "sunday": null,
         "type": "Stadium"
       }
     },
@@ -5616,30 +4152,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3333331810814,
-          47.58927702201703
+          -122.33333318099994,
+          47.58927702200003
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Occidental Ave S",
         "marker-color": "#af4bb1",
         "marker-symbol": "america-football",
-        "tuesday": "null",
-        "friday": "null",
+        "tuesday": null,
+        "friday": null,
         "site_id": "STA_1526_OCCI_OCCI-A",
         "site": "A",
         "address": "1526 Occidental Ave S",
         "neighborhood": "SODO/ID",
         "everyday": "Event Days",
         "marker-size": "medium",
-        "master_address_id": 150120,
-        "monday": "null",
-        "notes": "null",
-        "wednesday": "null",
-        "thursday": "null",
-        "saturday": "null",
-        "sunday": "null",
+        "monday": null,
+        "notes": null,
+        "wednesday": null,
+        "thursday": null,
+        "saturday": null,
+        "sunday": null,
         "type": "Stadium"
       }
     },
@@ -5647,30 +4181,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33337758151015,
-          47.59508611453259
+          -122.33337758199997,
+          47.595086114000026
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Occidental Ave S",
         "marker-color": "#af4bb1",
         "marker-symbol": "america-football",
-        "tuesday": "null",
-        "friday": "null",
+        "tuesday": null,
+        "friday": null,
         "site_id": "STA_820_OCCI_OCCI-A",
         "site": "A",
         "address": "820  Occidental Ave S",
         "neighborhood": "SODO/ID",
         "everyday": "Event Days",
         "marker-size": "medium",
-        "master_address_id": 147531,
-        "monday": "null",
-        "notes": "null",
-        "wednesday": "null",
-        "thursday": "null",
-        "saturday": "null",
-        "sunday": "null",
+        "monday": null,
+        "notes": null,
+        "wednesday": null,
+        "thursday": null,
+        "saturday": null,
+        "sunday": null,
         "type": "Stadium"
       }
     },
@@ -5678,30 +4210,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33335799247732,
-          47.59483593752856
+          -122.33335799199995,
+          47.59483593700003
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Occidental Ave S",
         "marker-color": "#af4bb1",
         "marker-symbol": "america-football",
-        "tuesday": "null",
-        "friday": "null",
+        "tuesday": null,
+        "friday": null,
         "site_id": "STA_901_OCCI_OCCI-A",
         "site": "A",
         "address": "901 Occidental Ave S",
         "neighborhood": "SODO/ID",
         "everyday": "Event Days",
         "marker-size": "medium",
-        "master_address_id": 147533,
-        "monday": "null",
-        "notes": "null",
-        "wednesday": "null",
-        "thursday": "null",
-        "saturday": "null",
-        "sunday": "null",
+        "monday": null,
+        "notes": null,
+        "wednesday": null,
+        "thursday": null,
+        "saturday": null,
+        "sunday": null,
         "type": "Stadium"
       }
     },
@@ -5709,30 +4239,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33335839537364,
-          47.59466305095907
+          -122.33335839499995,
+          47.594663051000055
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Occidental Ave S",
         "marker-color": "#af4bb1",
         "marker-symbol": "america-football",
-        "tuesday": "null",
-        "friday": "null",
+        "tuesday": null,
+        "friday": null,
         "site_id": "STA_902_OCCI_OCCI-A",
         "site": "A",
         "address": "902 Occidental Ave S",
         "neighborhood": "SODO/ID",
         "everyday": "Event Days",
         "marker-size": "medium",
-        "master_address_id": 147591,
-        "monday": "null",
-        "notes": "null",
-        "wednesday": "null",
-        "thursday": "null",
-        "saturday": "null",
-        "sunday": "null",
+        "monday": null,
+        "notes": null,
+        "wednesday": null,
+        "thursday": null,
+        "saturday": null,
+        "sunday": null,
         "type": "Stadium"
       }
     },
@@ -5740,13 +4268,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3333564906095,
-          47.59424350193609
+          -122.33335649099996,
+          47.59424350200004
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Occidental Ave S",
         "marker-color": "#af4bb1",
         "marker-symbol": "america-football",
         "tuesday": null,
@@ -5757,7 +4284,6 @@
         "neighborhood": "SODO/ID",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 147597,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -5771,13 +4297,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.34024145827664,
-          47.609195696823974
+          -122.34024145799998,
+          47.609195697000075
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "1st Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -5788,7 +4313,6 @@
         "neighborhood": "Downtown",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 138160,
         "monday": null,
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -5802,75 +4326,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.3331978915694,
-          47.606522005186434
+          -122.33931830499995,
+          47.61489356100003
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "4th Ave",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": "10AM-2PM",
-        "friday": "10AM-2PM",
-        "site_id": "04-10-14/16-B",
-        "site": "",
-        "address": "1000 4th Ave",
-        "neighborhood": "Downtown",
-        "everyday": null,
-        "marker-size": "small",
-        "master_address_id": 139026,
-        "monday": "10AM-2PM",
-        "notes": "Site B is inelligable due to parking meters",
-        "wednesday": "10AM-2PM",
-        "thursday": "10AM-2PM",
-        "saturday": "",
-        "sunday": "",
-        "type": "Food Vehicle"
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33390774444683,
-          47.61627708182192
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "Terry St",
-        "marker-color": "#fd0000",
-        "marker-symbol": "cross",
-        "tuesday": null,
-        "friday": null,
-        "site_id": "19-09-16/18",
-        "site": 0,
-        "address": "1915 Terry Ave on Terry",
-        "neighborhood": "Denny Triangle",
-        "everyday": null,
-        "marker-size": "small",
-        "master_address_id": 133867,
-        "monday": null,
-        "notes": null,
-        "wednesday": null,
-        "thursday": null,
-        "saturday": null,
-        "sunday": null,
-        "type": 0
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33931830509567,
-          47.61489356118898
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "6th Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -5881,7 +4342,6 @@
         "neighborhood": "Downtown",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 133976,
         "monday": null,
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -5895,13 +4355,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33997067150926,
-          47.6149443342137
+          -122.33997067199999,
+          47.61494433400003
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Lenora St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -5912,7 +4371,6 @@
         "neighborhood": "Downtown",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 631685,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -5926,13 +4384,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33626466698075,
-          47.61035018980948
+          -122.33626466699997,
+          47.61035019000008
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Pike St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -5941,11 +4398,10 @@
         "site": "A",
         "address": "409 Pike St",
         "neighborhood": "Downtown",
-        "everyday": "null",
+        "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 138046,
         "monday": "10AM-2PM",
-        "notes": "null",
+        "notes": null,
         "wednesday": "10AM-2PM",
         "thursday": "10AM-2PM",
         "saturday": "10AM-2PM",
@@ -5957,13 +4413,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33669957372632,
-          47.613001640313485
+          -122.33669957399997,
+          47.61300164000005
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Olive Way",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -5974,7 +4429,6 @@
         "neighborhood": "Downtown",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 134159,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -5988,13 +4442,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33070217396613,
-          47.605081819170664
+          -122.33070217399995,
+          47.60508181900008
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Columbia St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "11AM-3PM",
@@ -6005,7 +4458,6 @@
         "neighborhood": "Downtown",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 139094,
         "monday": "11AM-3PM",
         "notes": null,
         "wednesday": "11AM-3PM",
@@ -6019,30 +4471,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33335610210241,
-          47.59446865170696
+          -122.33335610199998,
+          47.594468652000046
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Occidental Ave S",
         "marker-color": "#af4bb1",
         "marker-symbol": "america-football",
-        "tuesday": "null",
-        "friday": "null",
+        "tuesday": null,
+        "friday": null,
         "site_id": "STA_904_OCCI_OCCI-A",
         "site": "A",
         "address": "904 Occidental Ave S",
         "neighborhood": "SODO/ID",
         "everyday": "Event Days",
         "marker-size": "medium",
-        "master_address_id": 147534,
-        "monday": "null",
-        "notes": "null",
-        "wednesday": "null",
-        "thursday": "null",
-        "saturday": "null",
-        "sunday": "null",
+        "monday": null,
+        "notes": null,
+        "wednesday": null,
+        "thursday": null,
+        "saturday": null,
+        "sunday": null,
         "type": "Stadium"
       }
     },
@@ -6050,41 +4500,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0,
-          0
+          -122.33321850499999,
+          47.61613565300007
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": null,
-        "neighborhood": null,
-        "monday": null,
-        "tuesday": null,
-        "friday": null,
-        "site_id": null,
-        "site": null,
-        "address": null,
-        "everyday": null,
-        "master_address_id": null,
-        "notes": null,
-        "wednesday": null,
-        "thursday": null,
-        "saturday": null,
-        "sunday": null,
-        "type": null
-      }
-    },
-    {
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33321850493002,
-          47.61613565263832
-        ]
-      },
-      "type": "Feature",
-      "properties": {
-        "on_street": "Terry Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -6093,15 +4514,14 @@
         "site": "A",
         "address": "1007 Stewart St on Terry Ave",
         "neighborhood": "Denny Triangle",
-        "everyday": "",
+        "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 135027,
         "monday": "10AM-2PM",
-        "notes": "",
+        "notes": null,
         "wednesday": "10AM-2PM",
         "thursday": "10AM-2PM",
-        "saturday": "",
-        "sunday": "",
+        "saturday": null,
+        "sunday": null,
         "type": "Food Vehicle"
       }
     },
@@ -6109,13 +4529,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33540468307962,
-          47.61478539163255
+          -122.33540468299998,
+          47.614785392000044
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Stewart St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -6126,9 +4545,8 @@
         "neighborhood": "Denny Triangle",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 425252,
         "monday": "10AM-2PM",
-        "notes": "was 19-08-15/17?",
+        "notes": null,
         "wednesday": "10AM-2PM",
         "thursday": "10AM-2PM",
         "saturday": null,
@@ -6140,13 +4558,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.32410020046387,
-          47.610000465049495
+          -122.32410019999998,
+          47.61000046500004
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Minor Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "fast-food",
         "tuesday": null,
@@ -6157,7 +4574,6 @@
         "neighborhood": "Capitol Hill",
         "everyday": "Night",
         "marker-size": "medium",
-        "master_address_id": 135561,
         "monday": null,
         "notes": null,
         "wednesday": null,
@@ -6171,13 +4587,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33023810400528,
-          47.61667377187712
+          -122.33023810399999,
+          47.61667377200007
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Minor Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": null,
@@ -6188,9 +4603,8 @@
         "neighborhood": "Downtown",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 134631,
         "monday": null,
-        "notes": "was MR-17-04/06?",
+        "notes": null,
         "wednesday": "10AM-2PM",
         "thursday": null,
         "saturday": null,
@@ -6202,13 +4616,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33916886475129,
-          47.61543789384376
+          -122.33916886499998,
+          47.61543789400008
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Lenora St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -6219,7 +4632,6 @@
         "neighborhood": "Downtown",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 675818,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -6233,13 +4645,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33474547552322,
-          47.61530866216509
+          -122.33474547599997,
+          47.615308662000075
         ]
       },
       "type": "Feature",
       "properties": {
-        "on_street": "Stewart St",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
@@ -6250,7 +4661,6 @@
         "neighborhood": "Denny Triangle",
         "everyday": null,
         "marker-size": "medium",
-        "master_address_id": 133948,
         "monday": "10AM-2PM",
         "notes": null,
         "wednesday": "10AM-2PM",
@@ -6261,173 +4671,206 @@
       }
     },
     {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34112948199999,
+          47.62066445600004
+        ]
+      },
       "type": "Feature",
       "properties": {
         "marker-color": "#af4bb1",
-        "marker-size": "medium",
         "marker-symbol": "car",
-        "on_street": "8th Ave",
-        "type": "Food Vehicle",
         "tuesday": "10AM-2PM",
         "friday": "10AM-2PM",
         "site_id": "TRK_230_8TH_8TH-A",
-        "site": "",
+        "site": null,
         "address": "230 8th Ave N",
         "neighborhood": "South Lake Union",
+        "everyday": null,
+        "marker-size": "medium",
         "monday": "10AM-2PM",
+        "notes": null,
         "wednesday": "10AM-2PM",
         "thursday": "10AM-2PM",
-        "saturday": "",
-        "sunday": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.34112948179244,
-          47.62066445634356
-        ]
+        "saturday": null,
+        "sunday": null,
+        "type": "Food Vehicle"
       }
     },
     {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33985006799998,
+          47.61524407500008
+        ]
+      },
       "type": "Feature",
       "properties": {
         "marker-color": "#af4bb1",
-        "marker-size": "medium",
         "marker-symbol": "car",
-        "on_street": "6th Ave",
-        "site_id": "TRK_2121_6TH_6TH-A",
-        "monday": "10AM-2PM",
         "tuesday": "10AM-2PM",
-        "wednesday": "10AM-2PM",
-        "thursday": "10AM-2PM",
         "friday": "10AM-2PM",
+        "site_id": "TRK_2121_6TH_6TH-A",
+        "site": null,
         "address": "2121 6th Ave",
         "neighborhood": "Downtown",
-        "type": "Food Vehicle"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33985006809233,
-          47.61524407480172
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#af4bb1",
+        "everyday": null,
         "marker-size": "medium",
-        "marker-symbol": "car",
-        "site_id": "TRK_301_100TH_3RD-A",
         "monday": "10AM-2PM",
-        "on_street": "3rd Ave NE",
-        "neighborhood": "North Seattle",
-        "address": "301 100th Ave NE",
+        "notes": null,
+        "wednesday": "10AM-2PM",
+        "thursday": "10AM-2PM",
+        "saturday": null,
+        "sunday": null,
         "type": "Food Vehicle"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.32573360204697,
-          47.701305264659204
-        ]
       }
     },
     {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.32573360199996,
+          47.70130526500003
+        ]
+      },
       "type": "Feature",
       "properties": {
         "marker-color": "#af4bb1",
-        "marker-size": "medium",
         "marker-symbol": "car",
-        "site_id": "TRK_936_34TH_34TH-A",
-        "monday": "4PM-9PM",
+        "tuesday": null,
+        "friday": null,
+        "site_id": "TRK_301_100TH_3RD-A",
+        "site": null,
+        "address": "301 100th Ave NE",
+        "neighborhood": "North Seattle",
+        "everyday": null,
+        "marker-size": "medium",
+        "monday": "10AM-2PM",
+        "notes": null,
+        "wednesday": null,
+        "thursday": null,
+        "saturday": null,
+        "sunday": null,
+        "type": "Food Vehicle"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34547197799998,
+          47.64897039700003
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#af4bb1",
+        "marker-symbol": "car",
         "tuesday": "5PM-9PM",
+        "friday": "5PM-9PM",
+        "site_id": "TRK_936_34TH_34TH-A",
+        "site": null,
+        "address": "936 N 34th St",
+        "neighborhood": "North Lake Union",
+        "everyday": null,
+        "marker-size": "medium",
+        "monday": "4PM-9PM",
+        "notes": null,
         "wednesday": "4PM-9PM",
         "thursday": "5PM-9PM",
-        "friday": "5PM-9PM",
         "saturday": "5PM-9PM",
         "sunday": "5PM-9PM",
-        "on_street": "N 34th St",
-        "neighborhood": "North Lake Union",
-        "address": "936 N 34th St",
         "type": "Food Vehicle"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.34547197818756,
-          47.648970397100435
-        ]
       }
     },
     {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.35538542299997,
+          47.62245606000005
+        ]
+      },
       "type": "Feature",
       "properties": {
         "marker-color": "#af4bb1",
-        "marker-size": "medium",
         "marker-symbol": "fast-food",
-        "on_street": "1st Ave N",
-        "everyday": "Day",
-        "neighborhood": "Lower Queen Anne",
-        "master_address_id": "",
-        "type": "Sidewalk",
-        "thursday": "",
+        "tuesday": null,
+        "friday": null,
         "site_id": "SDW_334_1ST_1ST-A",
-        "address": "334 1st Ave N"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.3553854227066,
-          47.622456059958395
-        ]
+        "site": null,
+        "address": "334 1st Ave N",
+        "neighborhood": "Lower Queen Anne",
+        "everyday": "Day",
+        "marker-size": "medium",
+        "monday": null,
+        "notes": null,
+        "wednesday": null,
+        "thursday": null,
+        "saturday": null,
+        "sunday": null,
+        "type": "Sidewalk"
       }
     },
     {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.33536943799999,
+          47.61623580400004
+        ]
+      },
       "type": "Feature",
       "properties": {
-        "on_street": "9th Ave",
         "marker-color": "#af4bb1",
         "marker-symbol": "car",
         "tuesday": "10AM-2PM",
         "friday": "10AM-2PM",
         "site_id": "TRK_1924_9TH_9TH-A",
+        "site": null,
         "address": "1924 9th Ave",
+        "neighborhood": "Denny Triangle",
+        "everyday": null,
+        "marker-size": "medium",
         "monday": "10AM-2PM",
-        "notes": "new site",
+        "notes": null,
         "wednesday": "10AM-2PM",
         "thursday": "10AM-2PM",
-        "neighborhood": "Denny Triangle",
+        "saturday": null,
+        "sunday": null,
         "type": "Food Vehicle"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.33536943793297,
-          47.61623580435125
-        ]
       }
     },
     {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#af4bb1",
-        "marker-size": "medium",
-        "marker-symbol": "car",
-        "site_id": "TRK_601_PIN_6TH-B",
-        "tuesday": "10AM-2PM",
-        "on_street": "6th Ave",
-        "address": "601 Pine St",
-        "neighborhood": "Denny Triangle",
-        "type": "Food Vehicle"
-      },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.33517900109291,
-          47.61201924168461
+          -122.33517900099997,
+          47.61201924200003
         ]
+      },
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#af4bb1",
+        "marker-symbol": "car",
+        "tuesday": "10AM-2PM",
+        "friday": null,
+        "site_id": "TRK_601_PIN_6TH-B",
+        "site": null,
+        "address": "601 Pine St",
+        "neighborhood": "Denny Triangle",
+        "everyday": null,
+        "marker-size": "medium",
+        "monday": null,
+        "notes": null,
+        "wednesday": null,
+        "thursday": null,
+        "saturday": null,
+        "sunday": null,
+        "type": "Food Vehicle"
       }
     }
   ]
